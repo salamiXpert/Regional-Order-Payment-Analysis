@@ -1,0 +1,1457 @@
+Country_ID,Country,Region
+c3b71518-9f56-43f2-8e87-a5b14ada6266,Togo,Asia
+28322a0b-905f-4095-93ad-82ad40b94d0b,Myanmar,"North America"
+be82eab4-ceb7-4245-aa01-c57ba6c7e768,Chile,Europe
+b17b4b13-d73f-4f28-b048-8aa52512d4d2,Venezuela,Asia
+d5db29bc-4b56-4996-9e23-b9524bd6aac7,"Saint Martin",Africa
+043399fe-9867-4894-8e20-c6203c271746,Qatar,"South America"
+aed23c58-24d1-4803-a252-e3f60416f825,"Solomon Islands","South America"
+a4566f7f-c354-4c6e-b2da-075b700fba37,Micronesia,Australia
+5c3aae51-b4e0-42cf-8062-1f600da52958,Colombia,Europe
+39bb341c-4a13-4086-b750-d43ef09347a2,Reunion,Europe
+4d681539-51e7-416c-b35e-12a935cba6a7,Greenland,"South America"
+4c66e8cd-f400-4cfb-9abd-ed91d1d4f3c2,"French Polynesia","South America"
+7673bd88-e33b-4e06-9ef3-ad8ca319f35d,"Western Sahara","North America"
+cc4a2a94-7d05-4773-8039-3fb016e7b2ca,"Sao Tome and Principe",Asia
+42ba5e4c-32d7-4d72-92a1-c737d1afd483,Nepal,Africa
+f9b462d1-a146-4138-952d-f4b1a75198d6,"Trinidad and Tobago",Africa
+505e0b0f-8685-4a24-a4e9-418233f3e236,Kazakhstan,"South America"
+5d875bd3-27d7-412f-9bf6-ceb6ed435188,Ireland,"North America"
+fdab4859-09fd-4086-8653-4c14b7aa8674,Namibia,Australia
+e878cf7b-7f1a-48e0-8c84-245637a9d197,"Christmas Island",Asia
+ef5a6243-bb92-4511-872c-cacbf8f50537,Namibia,"South America"
+5e3674aa-ea7d-40a0-a5b6-3887ab6ef780,Grenada,Africa
+0558c727-ae27-49db-bee2-43a139a845d2,Nepal,"South America"
+c9a2763c-f052-470b-b14b-553954883a89,Venezuela,Europe
+5be8e249-fd3f-48de-bcdf-b86416aafc18,Congo,Asia
+2142d413-7c55-49c3-acc7-e636c536a134,"Isle of Man",Asia
+145cf258-c67e-457c-885a-e478953de009,"Sao Tome and Principe","North America"
+6d18d74a-8e2b-479c-9a52-3e80c4f83fee,Sudan,Africa
+85b9c1f8-5f8b-44f2-b4ef-d6c99fecf0b8,Gibraltar,"North America"
+681f96f6-8186-47ab-9fed-6fc4c4764d45,Tokelau,Europe
+6ad271de-4774-4148-aad6-588be9eb0fe0,Peru,Australia
+e6c2d317-2c65-4cfb-9064-84955472ccda,Macedonia,Asia
+426b9604-c353-4d22-a659-4ffc7d29e91f,Kiribati,"North America"
+403b9a8d-ba98-49fb-a060-f87dd43321d2,"Solomon Islands",Europe
+6d14f7c6-5690-44e8-9105-c818b55f66a1,"Cook Islands",Asia
+f575a850-be1d-43be-93a4-315dee529597,Gibraltar,Australia
+627b74a6-8bd7-4fec-9e11-b323cd1bf5ef,Ethiopia,"South America"
+04f88eee-ff60-4864-8b81-4a13994584d4,Romania,"South America"
+4dc6eb4e-6293-40de-8881-2a257c30062d,Anguilla,Australia
+a059e500-5104-444e-9c85-4872fbcaf647,Cambodia,Asia
+ec35aef2-a53f-4482-abf2-5ead9ec8370e,Latvia,"South America"
+b66e1ecb-06cd-4aaa-8137-fbb479e39e47,Guadeloupe,Europe
+d0ab334d-42cb-46c0-a2b0-85b9d249e8e8,Niger,"South America"
+f26249a1-e63d-4587-8e21-2e082afd7b4a,Vietnam,Asia
+01fa23ff-3e81-45b0-86ae-754758c42daa,Nicaragua,Europe
+cbae93a0-7d2d-4004-a119-39bd6020b3a3,"Isle of Man",Europe
+17d5a01f-5545-4163-ad5f-aa496ac44bc0,Vietnam,Europe
+406cd421-54b2-4d5e-966c-a97fe474a245,"Sri Lanka",Africa
+4b977cab-e8be-4d8e-9cb8-9471caee8207,Singapore,Australia
+ffb6f6f3-38c4-4626-9c55-249a93c935f9,"Falkland Islands (Malvinas)","South America"
+86dcb9f3-b74f-484b-9cd2-74e9da5355e5,Hungary,Australia
+693cf9d1-bc9e-4e1a-89da-38cccf38f99b,Italy,"North America"
+99165457-da7d-48da-93d2-fc081c66d6f6,Eritrea,"South America"
+b3dc6936-fdb3-49f4-b945-ad9d4c41d3d9,"American Samoa",Australia
+f8e929f7-75b2-4a32-a165-c5a99e4491bb,Denmark,"North America"
+9818c4b7-413a-45d9-9161-062d8ee44685,Congo,Europe
+86a4276b-282e-46ab-8352-bf4eed286860,Senegal,Europe
+f3f48662-1836-4d01-91f0-e54bdcbdd4fd,Gambia,Asia
+acc87126-957f-400f-9b7c-a8c086f20c57,Gibraltar,Europe
+9ec0996d-4ca1-4695-acbb-6d5fcf88df7a,"Saint Vincent and the Grenadines","South America"
+ddddb4b2-8a0c-4c1b-ad1e-8defcd1c582a,Tonga,Africa
+21f28aed-5943-42b4-9231-761b3483a225,Dominica,"North America"
+6084f67e-0c40-467d-9715-151ab359ad16,Oman,Australia
+56d3da8f-ce5d-4b08-91f3-db62bbc359ca,Guyana,"South America"
+f98efe82-671a-44bb-b85f-41b57f94800c,Australia,Europe
+604bfe2e-8ba3-45d2-bdf2-e5b609f40691,Portugal,"South America"
+d38bb4f4-7499-4b22-bf1b-c3aef825982c,Albania,"North America"
+e3ef9cbe-e76b-4202-82c1-47e8a8aeb777,Croatia,Australia
+9053fea4-781e-456c-b78d-1974028cfbfb,Finland,Africa
+1a0cf080-de65-4bc0-b187-e633a5bebceb,Suriname,"South America"
+5ced0e95-a36f-4910-b730-e7a1098db02a,Oman,Asia
+5edece44-ebfa-4883-85b9-f9d83c273b55,Argentina,"North America"
+0bea5be7-6e48-45d0-ab31-252245b8165b,"Sierra Leone",Africa
+0d97cc6f-7e15-4b2f-8a35-d675751e14ca,"Christmas Island","South America"
+f3df67bb-66ca-4736-b3cb-6f1699429399,Pakistan,Europe
+19ef95f7-33a4-41f5-ab3e-91475f2318e3,"Marshall Islands","South America"
+f16792c3-c878-4ad8-a97e-bbb9c53be546,Tuvalu,Australia
+9b512b2f-2d7e-43d5-bb28-eeb53154d8eb,Mali,Australia
+5200781d-9cff-4470-8bef-90304aff0520,Vietnam,"South America"
+b98629e7-f6c5-4402-afbd-7c5ece820374,"French Guiana","North America"
+89e859c1-7a82-421f-af1b-4fdd3889a47b,Brazil,Asia
+2c524241-c3b5-4122-bdb8-df3fbcea7897,Finland,Asia
+0e562d99-729e-4f6a-a7dc-5de46562a5aa,"El Salvador","North America"
+b08bb34f-84d9-47cd-a100-9fd36483628b,"Saint Pierre and Miquelon",Asia
+f6d4128f-8453-4160-80d5-0e4d4172381d,Mozambique,"South America"
+b463c4d9-acda-4a2d-bf9e-d7469e247ba7,Estonia,Australia
+1c6a0dca-e51f-4c85-afb2-e54bfdb57b22,"Sri Lanka",Europe
+76aaa3ce-91cf-406d-872a-d1d95871307b,"Wallis and Futuna",Europe
+1fcf56c3-1677-4fac-af73-803a606226f8,"Kyrgyz Republic",Asia
+7c958f7b-d7de-4d41-a5bb-c69ad194c079,Tuvalu,Europe
+dca19d9e-e22b-48d1-b718-de994d2a56d8,France,"South America"
+c0044da4-a766-42ba-b1ee-29f1496b3731,Egypt,"South America"
+15444cc7-37fa-4b55-a22d-737d91e19ced,Congo,"North America"
+80511300-b089-479d-ab9c-f363fc576a7d,"Saint Barthelemy","North America"
+1c2c7f34-8910-4110-a47e-38dd39baf1c9,Zimbabwe,"North America"
+7a0493ea-491a-4d64-9f33-00287c0718d9,Qatar,Africa
+8df3587e-0d8d-43c5-bede-5c3f149980b3,Guam,Asia
+fc6c018f-96cf-4a27-bdcd-00f09ce11582,"Saint Lucia",Africa
+f925d525-adcf-4755-93b8-f1c0e0ce7877,Nigeria,Asia
+9c857236-5b9d-473d-a1f8-19610d08aeec,Lithuania,"South America"
+7c67fb6f-b821-4f5e-a2b5-c15fa86398da,Armenia,Australia
+2fd4c2d7-a4ed-46b1-9989-8874520813f9,Seychelles,Africa
+a0987e6c-e5fe-4a11-b401-c7271c37fef0,"Equatorial Guinea",Asia
+1d960963-40dd-47c8-9cc2-748c81a5f94a,Taiwan,Asia
+6831f7d4-c732-4783-994e-db1850d9c5b4,Luxembourg,Europe
+a40fe91b-f700-4d6a-ab89-10826d8b68ca,"Saint Vincent and the Grenadines",Asia
+24c13879-db8b-48fc-8575-2bbc0100427c,Rwanda,Asia
+fd9f8b4b-0fcb-4c00-bad6-aa921f5c3504,"Western Sahara",Asia
+0cd0101b-2cbc-416c-aa44-b87ec17ebadb,Ireland,Europe
+1f434ffd-bb18-48cd-a232-cb3a4d5bf6cc,Mongolia,Europe
+9dc12818-b4b1-475d-aecc-3a23ff88da04,Mongolia,Africa
+32520504-dc49-46f4-a212-45e06be805bc,"San Marino",Australia
+5e622834-464f-41be-b9fe-fb97773e2192,Spain,Africa
+3e54fd76-db37-4bda-bc3a-b7a54c8f06ed,India,Australia
+2905ea74-ca82-4eb2-bba3-616a538d284e,Malaysia,Africa
+e3a49f43-b211-47e2-a35b-1734af75ce66,Andorra,"South America"
+ff393012-f75d-4031-b6a3-55ac0af28778,Zimbabwe,Asia
+4c188c02-1a10-440c-9217-40211e9769b7,Cyprus,Africa
+90eee3d4-aa6f-4945-b432-2b9bff8e78cf,Peru,"South America"
+79c44437-bef7-46bb-bb8e-24616be7c0d3,Gibraltar,"South America"
+36810248-5626-4fc3-a0b8-46090c388b68,Uzbekistan,Africa
+1632184e-cef1-43ac-b629-7755cf8dabd2,Nigeria,"North America"
+90e8dd63-315b-4530-b682-d792c9cfd33a,Germany,"South America"
+8499e79b-5280-407f-8cd1-903c10a2f238,"Czech Republic",Australia
+355bff8b-a9cc-4623-8e7f-b5fb6f7312a9,"Saint Pierre and Miquelon","South America"
+b7b16adc-d307-4065-bdef-022f36450f33,Liberia,Asia
+db02cd56-c3fb-48ad-99b5-042cd502e262,"Papua New Guinea","North America"
+eb812622-ce6d-4c38-ae17-64af783de233,Mauritius,Africa
+653463e3-1607-46cf-8494-25067d644679,"Burkina Faso",Australia
+d69d574e-109d-4a0c-951a-48924e1fd37d,Korea,Australia
+49be20a5-3c27-484c-b71c-d91fad24dd95,Guernsey,"North America"
+89ffa79a-3a73-47d4-b993-cb12df2eb447,Turkmenistan,"North America"
+fc64283f-8bf2-4d56-a5c0-38ce20c571b9,Spain,"South America"
+696b8cb8-9af6-4ab3-a041-894970a2ccbe,"Bosnia and Herzegovina",Asia
+4b61d7d7-250e-4f80-9920-84eab9d75304,"Saudi Arabia","North America"
+117eeedd-391c-415f-8740-9913c135be69,Malawi,"North America"
+14294e7c-2e80-4b77-90ff-8bfa6386f8da,Mali,Asia
+aa19ed0a-4251-4347-9566-072a53695136,Austria,Asia
+31bbe587-9fb7-4637-bf55-d292d5a8bd91,"Equatorial Guinea","South America"
+25da7920-2b18-4f17-8f51-2552f8c88d72,"Sao Tome and Principe","South America"
+fe31ff9f-07c1-4c4e-ab88-b9790140e34c,Grenada,Asia
+d1d5b05a-87d3-461c-838a-f34b19653810,Tajikistan,"North America"
+4a9e56b7-2367-4099-80df-63fec261aca4,Nauru,Europe
+5f0c6aae-fc97-4683-a7ad-b8c99eb3a834,"Equatorial Guinea",Africa
+981cfc55-477f-409b-b52c-26bf0fded47c,Gambia,Australia
+98ee6174-2ebf-488c-af06-f97ab2d32dab,Maldives,Africa
+fde9a002-2e67-497b-aead-3ba06d25279a,"United States Minor Outlying Islands",Europe
+bcc21d33-8627-4a53-8144-ab1e6b079ed2,"Brunei Darussalam","North America"
+7bc1e26e-dbeb-4864-86f4-f003317bc75f,"British Virgin Islands",Africa
+b11cac24-fac7-48dc-953b-5f5a28573555,Turkmenistan,Asia
+9b8d2dfd-158e-4aff-b1be-b1cd79a51795,Moldova,Africa
+03d92678-02dd-45c6-9ea7-15d02ad9feba,Afghanistan,Africa
+a6e950e1-52f0-48a7-a72f-96f5a4900ef7,Zimbabwe,Australia
+6ade62ad-60ca-4b79-b8bc-94c506c6b9b9,"Cape Verde","North America"
+8eb6fb63-1af5-4543-8700-ad1aaec2109a,"Palestinian Territory",Australia
+3ec1ae76-ace3-4131-9041-99ced383c3c0,Yemen,"South America"
+bb345bdd-ccfb-4993-93f7-3ef46117fe52,"Saint Kitts and Nevis",Australia
+9afdd2e8-da38-4672-a1ce-c3e4ce0230d1,Palau,Australia
+ef79c968-4220-4e20-9989-fc553048d470,"Czech Republic","South America"
+baa0a712-5bac-4247-a215-7a111cff66ca,Niger,Asia
+01116c21-c516-44ef-a51b-6691e905ba10,"Bouvet Island (Bouvetoya)","South America"
+29a59818-f1f6-415c-90ba-bc67edc131a6,"Cote d'Ivoire",Australia
+f6aaa18c-9ed7-455b-8705-4430f7523285,Austria,"South America"
+15908eef-c2a5-4f1c-a95f-16d434b35b7b,Honduras,Asia
+96d47372-b575-401e-a0c4-edf8ee69f401,Seychelles,Europe
+323969be-6f5c-4c08-8555-4a97dd396c9d,Macao,Asia
+1ca0199c-a5a7-4ab5-a676-f05c0c52da1d,Jersey,Africa
+22ad6ba9-35ea-4fb1-b7dd-dbbb087266da,Myanmar,Asia
+cbb1a9c8-6d51-4287-84f3-76f7f8cd9a4f,"El Salvador",Australia
+1a4f0e60-a32b-4f6c-9404-a0fce79d0650,"Heard Island and McDonald Islands",Europe
+40d261d1-d6e3-48aa-990a-9f3f3c371ba9,Turkey,Asia
+dcd9c021-52f8-47d5-9724-20660de605cf,Djibouti,Africa
+1462d4f9-f80d-4225-a1f7-bad09d966592,Malawi,"South America"
+fd9d613a-d51c-4042-8bcf-f2b16625e821,Bahamas,Europe
+787d8a4d-b096-4131-aa75-3060b803412d,Philippines,"North America"
+28df0d18-82fb-44a3-b92b-37870fb2b649,Israel,Europe
+48f6557f-b9d6-4db9-ba36-a278deb5c5e6,Belize,"South America"
+b177fdb0-5ccc-45c1-80f0-ffe07c04f41a,Kiribati,Australia
+a57e424a-9aba-4414-8236-55345d41aa8a,Mongolia,Australia
+3231eac5-2eac-45d8-8f1a-b7a69072d712,Canada,"North America"
+7dcbb732-0ba6-4784-818b-d3350f4227b1,"Dominican Republic","North America"
+47aaa06b-9487-4c54-989b-1c9d8260f4f6,Pakistan,Asia
+80df1134-9df6-4a2a-9d7f-540364a4a383,Croatia,Africa
+5aa3f1f5-012a-4993-9233-f35401132b0f,Gambia,Europe
+5ec164bc-df87-4ba1-9b14-d4ee7a312596,Georgia,Australia
+11163af2-f12a-4995-8093-2546f2b25419,Madagascar,"South America"
+42492e64-c52e-4e97-98ad-d0437c3ba30c,Paraguay,"North America"
+4d008bef-e504-4718-9d7d-1b6b953788d3,"Faroe Islands",Asia
+2dbe1841-ad17-486f-9aaa-29d077789e54,Guatemala,Asia
+ae75f639-b12c-4ba5-9b04-82cc97d15d38,Moldova,Europe
+a993f59d-692c-4f61-80a7-7d817fe57ccc,Iraq,Asia
+a6204cb8-03ea-4e33-b93e-62d07b5036e5,Jordan,Europe
+5cb2f25c-eedd-4b29-a9ce-92eed0096f52,"El Salvador",Asia
+0c6b2226-45dc-4ca0-ba25-88806ed6e980,Comoros,"South America"
+3bd2ef15-798a-4d78-9751-93f3763d92be,"Burkina Faso",Asia
+b691bbba-44e8-4bd8-9bc3-dba40b513cfa,"Western Sahara",Australia
+2c4c05d0-2d85-4c08-b49b-8a183c2c0fe5,"Sri Lanka","North America"
+383fc2fb-2c15-43f7-8906-e37a321acbe8,"Faroe Islands",Africa
+18bdaae0-abc6-41e4-98d5-f32db9edee18,"Wallis and Futuna",Asia
+9fb7f178-dc23-45c4-b5f4-0670d4fd9836,Angola,Asia
+bf133013-0fc6-4a55-8a7e-6f7836cc52ae,Morocco,"South America"
+6cbd4ec8-65ac-4615-86a2-368bd8c4f9f8,Uzbekistan,Asia
+66393cf1-f55c-406d-b5f6-8d8e7fd39d09,Timor-Leste,Asia
+c6e5c0f4-e134-4ce1-a357-f7c7b51f8f77,Tonga,"South America"
+89cf0137-7645-4c7c-91e0-7c32def245d5,Guyana,Asia
+61f2eac4-4d72-4b84-b371-36c07c20e3f8,Mozambique,Asia
+471e4851-aa51-47d5-81d4-d0d43e70c46f,Eritrea,Australia
+a2a438db-b9c9-446a-9dc3-c87bcf325afa,Bangladesh,Europe
+213f0af1-968e-4ea4-8b67-f483375e8b99,Pakistan,Australia
+eb1b0412-3ea8-4118-8722-a7d69f9c183f,Tunisia,Asia
+fb3aaf33-c11c-47b2-b7de-b093c49fcc7c,Nauru,"South America"
+d64fa3a6-c8ae-47fd-8aad-e65e5fa53749,Sweden,"North America"
+d49a8311-9e7c-40f1-b85e-2a4ea9a161b2,Bhutan,"South America"
+6b915780-cf89-4e7d-81e4-331bb36a1b88,Samoa,Europe
+5b8a9ccc-0b86-4ebc-8784-32fcc3906cf5,Azerbaijan,"North America"
+cb721fdf-641e-419f-8f45-0ae7c1c78877,Korea,Africa
+5ef7212e-85d0-4d25-918c-8b837895faac,Malta,Asia
+5e7dada9-69f3-4658-a12e-8e93c276cbc1,"Isle of Man","South America"
+fff012f9-4e80-433e-8cef-15ec4f553633,Colombia,Australia
+8ce4b793-87b2-43de-a6ae-72cae30bd73c,Guinea-Bissau,"South America"
+a0aadcc7-e4c7-4a8a-9d9f-cb2c190d28d8,Lebanon,Europe
+508560e9-d3d3-4964-8358-2a883a6873ff,Thailand,Africa
+0d3514a3-9b19-467d-8701-f41d5ef56f02,Honduras,Europe
+049d9904-3eee-426d-861b-1effd49de603,"French Guiana",Asia
+a51473b2-0395-47f6-a617-ce3b337e6518,Djibouti,Europe
+1df404e7-2540-4cfc-b3da-2200fc595c3d,Grenada,"South America"
+e6a1a222-2ddd-439a-bef3-bd76d5b7ece6,Bermuda,"North America"
+b7b890cb-136b-4506-a4b3-a84074996d80,Uzbekistan,"North America"
+2a2dd8b3-c53c-4adf-b2be-b86530cfe7eb,Portugal,Europe
+b39302a1-d9c4-45dc-b5d8-e6ccb67e8407,Belize,Australia
+71409c28-69e9-4881-876d-07d5aa830210,Romania,Europe
+38975184-1013-4890-a8c4-11e2a8701525,"Isle of Man","North America"
+94529080-a12d-49e0-972b-017dac451baf,India,Asia
+8101d01d-2d30-4633-8a34-80cd4e5807d5,Qatar,Australia
+542a50f3-acdf-4c9d-a26a-720f7f50cce4,"Trinidad and Tobago","North America"
+88003062-f2d3-40ab-95ae-bfc896d4bf94,Bolivia,Australia
+1c1994b8-0eb3-44f8-bdb5-7fc8f3cceb17,"Pitcairn Islands","North America"
+499871b8-bef2-435f-9c3d-eb45ffec658d,Dominica,Australia
+04889bd4-190a-41c5-8b59-5b05c039047c,Guinea-Bissau,Australia
+0aafd8c9-3629-4a7f-ae49-7c3117b371b9,Aruba,Asia
+1ee7ce7d-5c87-4b61-b709-1468035f4c33,"Norfolk Island",Asia
+2eb625b6-b162-4bf4-a226-58845ede5cc5,"French Guiana",Australia
+02521665-6802-4096-9af2-244b0806a4b9,"Sao Tome and Principe",Europe
+1a23592f-c020-4d85-a793-64fe114363b8,Andorra,Australia
+078ffd67-99e4-4f07-940e-574bfd88726c,Gabon,"South America"
+6f37f001-db91-4865-a288-871a67f09c7c,Lithuania,Africa
+2a8083e0-1972-4323-b75a-3b9c41727d77,"New Zealand",Australia
+baafdf90-5b3d-4bed-aaca-97a0b6a01245,Nigeria,"South America"
+782d62a6-a47a-482c-af60-bbcd664fad77,"Cote d'Ivoire",Asia
+234719be-5a00-4a33-b441-28d85003915f,Mauritius,Europe
+8c1d8e93-9b3a-462d-b561-ac254deacd12,Iceland,"North America"
+7118a5e2-6daa-44fe-9e6a-9ed87aee8f27,Malaysia,Asia
+3d20ba7b-1bb2-4df3-afe0-6580f40c9993,Jamaica,"North America"
+b77b0edb-a6d2-4874-b6e2-a552e61f71b8,"United Kingdom",Australia
+c73acefa-4d01-464b-b201-9be1d9abec46,Afghanistan,"South America"
+461c556f-9d25-4184-8ceb-a90b157ca508,Kuwait,Africa
+8e0bd6ab-daee-4adc-a27e-cf784ce0a04c,Swaziland,"South America"
+0fd7b8cb-4e8b-4064-9a6d-a53371425675,Iran,"South America"
+0f6b0576-a1a9-4628-910d-8643c7c1ca00,Mayotte,"North America"
+e93b103f-52ae-421e-8de8-b536443ac523,"Holy See (Vatican City State)",Europe
+bd0059b4-50f3-479d-b3e3-c7fade8d1b9d,Colombia,Africa
+a9b5fa83-4f74-4495-b612-d9f5bdb9275d,Seychelles,Asia
+082d1118-0482-4b7c-9ce7-6027fbe1a9d4,Tajikistan,Australia
+5389ccdf-b370-465c-bafd-85ce0f46b8a3,"Burkina Faso","South America"
+6c370b0e-5595-4540-a5e5-8680583764f8,"Burkina Faso","North America"
+fe8ede41-5282-4e01-b4c5-e8ba222c2fc3,Benin,Asia
+4c20b070-5ff1-469c-a1ce-3fb93370f60a,"Cayman Islands","South America"
+27a50227-7f32-4bb0-8941-84d62fdb2c69,Sudan,Asia
+c9805794-6b52-4f7e-a520-6dc88ad2ecb5,Germany,Asia
+fb104bc9-e07f-4ad0-8b08-fee7a41ea482,Nepal,Europe
+16e132fd-58a1-435f-99b9-94319fd7dbd6,"Wallis and Futuna","South America"
+a827a1ed-ae9f-4f95-837a-b5f9034401f4,Canada,Africa
+139786ac-08d1-4dd9-857c-d3fd53186dbb,Italy,"South America"
+cd28a280-e347-4589-a177-0801cfb1fa17,Bulgaria,Europe
+3f54cfa6-5044-4159-8029-0841addabb25,Uganda,Australia
+d6e352bc-4d49-42f4-bb20-0355e1da3360,Mauritius,"North America"
+fef5f17e-e996-413b-83cc-622d85b96cdc,Seychelles,"South America"
+b82fd38a-1449-4f9e-bb14-ec3f7a638f35,"British Indian Ocean Territory (Chagos Archipelago)","South America"
+0a100533-8040-497d-aaad-aa089f78b150,Lithuania,Asia
+e024c79e-0c64-4ae9-b52c-8a5fccde8a27,Nepal,Asia
+ab24eadf-b732-4c88-b426-9af7861a3184,"South Africa",Australia
+e22878b0-8ed0-46db-9508-444a4067240d,Liberia,"South America"
+0e09fc5e-9db2-4cbd-bbe4-6ef5008f7afc,"Cook Islands",Africa
+2e391fb8-c813-476f-be99-d85a2cbd93b9,Bulgaria,Africa
+e39bda8a-0c41-4ae2-a299-c15d313e4abb,"Trinidad and Tobago","South America"
+1a7e3420-c153-4b58-9c38-f34bd59cc247,Angola,"North America"
+8912ff7b-fd2b-4da3-8ce1-d73edecd572c,Aruba,"South America"
+7daf29df-62a1-462b-8a5a-6cc98d598263,Botswana,Europe
+2e4ea3af-c97b-4aa5-9797-ab6d51515ad8,Jersey,"South America"
+caaa3158-aa3f-4cea-b195-1a49f437bd56,Tanzania,Africa
+a77ee1b4-05d0-426e-a07f-c6c10c6305c0,Argentina,Africa
+016413ec-3cc0-4a41-b9f8-e71188881c16,Monaco,Australia
+675915c4-c3d4-4fe5-bbde-b743b75211d5,"Syrian Arab Republic",Europe
+35e9daf8-1483-4111-a958-f56266d264e8,"Western Sahara",Europe
+76eaf521-4f40-49f3-af52-3e133d6bb13a,Romania,Africa
+02b9953c-aa2f-489f-a492-880bc888c932,Cuba,Australia
+26683f53-5d4c-4cb1-a901-fba304c95b9c,Japan,Europe
+adc1a31c-2474-4b0e-a8e6-0d8d99543e6b,"American Samoa","South America"
+b1c12904-da6d-4e88-ac4b-589e22666c79,"Syrian Arab Republic",Africa
+5ce38e9c-9adf-47b0-beaa-106fea4c9875,Switzerland,Asia
+1734ad8c-f2cc-4ff4-bcb1-ee4a253a24ae,Aruba,Australia
+7f9bc586-e531-47af-99dc-c31127593603,"United States of America","South America"
+4d9a4dcd-e9ed-420b-974a-72a2a919f072,Gambia,"North America"
+f72052ac-aa31-4a0d-bb8f-f2f15614dae1,Greece,"South America"
+40ee6b7f-a59f-46da-8c80-698493f58cb0,Bahrain,Asia
+95ee59da-d74c-44c6-8988-6126a6fdece9,"Christmas Island","North America"
+2b20faef-b559-497f-b768-8ba79a4c150a,Bermuda,Asia
+dacae007-0280-4ff3-a760-afc32c39e246,Lithuania,"North America"
+e8cdc2a7-7eb5-4b2d-a433-411c5285eab5,Afghanistan,"North America"
+8db43e47-0799-4c58-8037-5a7702ec1336,"Russian Federation","North America"
+4cd27a88-7be3-401a-91e5-41c6eb3cc0c8,Algeria,Australia
+0485a2f4-b803-4057-b17d-c95924e9d07d,Tonga,Europe
+bbea3d2f-2692-43c4-b9d3-4caf0615fbb9,Japan,"South America"
+221c3613-4410-4bc6-9258-10c60a46e57d,Bahamas,Africa
+0094c326-2426-46ec-a599-75f4a9c64102,Mali,Europe
+851bd44a-a265-4668-a4f9-e1637bbde5ec,Bahamas,"South America"
+9d8d6eff-feb8-4aad-a452-50bd4c0d822d,Samoa,"North America"
+87198f54-5871-40d9-a20d-f8bbd9049927,"British Virgin Islands","North America"
+83e2fc76-2b94-48d1-80ce-078c7aa43c60,Greenland,Asia
+4c2c0b74-cc30-4053-bd50-62db80a2e9b7,Ghana,Asia
+a7427745-7d05-4896-a927-cbe1c218741a,Japan,Australia
+3830f0c9-4b37-4c56-a4d9-ca7547b2a63d,Liechtenstein,Europe
+a7a0d0dd-e7e9-4a42-9a63-659e5564dc72,"Slovakia (Slovak Republic)","North America"
+bf0f122b-e226-4af0-a243-551c00860884,Mexico,Australia
+fbe4f7aa-9dc1-4d65-a2fc-fceaa8579aff,Guyana,"North America"
+952bded4-8a41-4fdd-b081-7690172f6ef5,Bulgaria,"South America"
+1cd1d5cc-555f-44a1-a4f8-b9f8c53ac495,Sweden,Europe
+04723c82-16e8-4cb4-94b5-692f6042f158,Montenegro,"South America"
+32953045-a011-4619-b075-52f5439f889f,"South Africa","South America"
+6d3b0c63-365e-45b0-bff9-0698bff4d0b7,Maldives,"North America"
+d68ab663-94e5-4f13-a134-1bd6ff629fba,"Saint Vincent and the Grenadines",Africa
+e6772e27-dfea-4dde-9494-87235a883606,Luxembourg,"North America"
+84dd7dc8-61d7-4919-b31b-7586042ba2e4,France,"North America"
+0e02ed09-2448-432e-88a4-348ee7248cb0,"Cayman Islands",Europe
+06277a49-3c88-4720-a46f-6b0314b3b14a,"Libyan Arab Jamahiriya",Africa
+5de78419-f8bf-4fb5-8970-c0c84588dbf1,Kiribati,Asia
+b0c49acd-4d6b-48ed-81a9-4725b593e352,"Sierra Leone",Asia
+6b675b18-b079-4488-8bfe-5241f812d52e,Guatemala,Europe
+a4d4b68f-1f97-4f9e-947b-065361b54882,"Cocos (Keeling) Islands","South America"
+077c950d-ae62-47e3-8b06-8cf587ee2352,Zimbabwe,Africa
+3b4fa474-90df-4dce-97cd-4bf155e44619,"Faroe Islands",Australia
+5cfcebd7-8b68-4764-9321-f215ee10104e,Venezuela,"North America"
+6f89c832-40b2-4521-9a73-0f7e825e27e6,"French Polynesia",Asia
+15b5851d-814e-4db2-90a7-d5acb858410a,Turkmenistan,Europe
+f6052b22-09b9-44cd-8af2-052a3156f47e,"United Arab Emirates","North America"
+e2c06431-37e8-475d-9703-720528b312ab,"Svalbard & Jan Mayen Islands",Europe
+1242ef59-0e62-469f-b0e1-0848f26cc463,"Saint Helena",Africa
+650d0b96-c872-44ef-969f-61990b882afa,Jordan,Australia
+4f947bbe-5b81-4bed-99cb-4eccee98bbc7,Comoros,Asia
+7ff2c978-e47e-4dda-857d-1d643263ab21,Dominica,Europe
+e48811d5-a407-437a-9992-9758fa813347,Kiribati,Europe
+b0703bb2-e8cf-4c27-8ec1-e12b65048f2c,Israel,"North America"
+60357894-defd-458c-b05a-10bfff3228fc,Mongolia,"North America"
+88c2e2ff-b4f0-408f-8128-5b512bf1320b,Nepal,Australia
+0db50400-484b-4890-b1b7-dbfdbe2763f8,Bahrain,Europe
+acba164f-bb87-459f-9552-7068b13dee4c,Peru,"North America"
+b04a3656-8012-46c2-9f20-b654436e602d,"Faroe Islands","South America"
+2faa3d48-0a13-49f6-9dca-6b438faf5c95,Zambia,"South America"
+78321920-554d-4505-b0e1-88c6347c4189,"Netherlands Antilles","North America"
+3ce5c129-4cc1-447d-bdd1-991b0817e67c,Micronesia,"North America"
+2aebe08f-7ed9-4539-91b5-98133d25dffe,Cambodia,"South America"
+4493ed4b-eb93-44fc-b30f-365be337f267,Ethiopia,Europe
+ba95b16e-108e-41c9-93d9-9e4a62e5fea4,Cameroon,Europe
+97e84b5c-b13e-48d1-ad83-ce4509fcee0e,"Papua New Guinea",Africa
+2e759e65-663f-46ac-a914-59559cb89bd1,Burundi,"North America"
+57458c31-caf7-4043-a4a7-ee708647170e,Lithuania,Europe
+e541ae4e-0dac-4bff-822a-eb8ee1735594,Belarus,"South America"
+1e570fbf-7240-4376-90fe-98ff3dae8dee,Ukraine,Australia
+53fb74a2-18aa-466d-a1f3-c95535c6fe1b,Mauritania,Australia
+7e80f204-8bae-4bc5-87ae-3dcd32feea1c,"French Guiana",Africa
+d7c68301-31a5-4b23-9874-67b1a1188d91,Vietnam,"North America"
+cfef3afc-2260-4893-8db7-24c4747cb096,Ecuador,"South America"
+88819ba0-9913-4988-953c-9c9f1425e2a4,"Heard Island and McDonald Islands","South America"
+59d75260-ead4-43b2-83f2-42ed74cecebf,Germany,Australia
+69e6b2cf-bf6d-43c2-80e3-fe7bbb00bd1a,Macao,"South America"
+ebddb5ac-05c8-4f29-b8b1-31818b13588b,Lesotho,Asia
+c6b0e78b-dfe8-4cb3-be18-9c8d247da275,Montserrat,Asia
+73bf1aa1-b7b7-4c55-97dd-3da1dac4dfb6,Mali,Africa
+881b4bbf-f844-47ea-99f7-047ba04c5cfe,Taiwan,Europe
+ebc25776-e794-4401-b0ce-01a971f0ac86,Rwanda,"South America"
+ff3b5671-996d-4e41-a437-5174a3122e5e,Vanuatu,Asia
+20b11a5e-d76a-49c4-ae58-02558a71397b,"Papua New Guinea",Australia
+8b8093a1-1429-43d1-9b84-7e9aa828895f,Latvia,Europe
+373cb022-ac3e-4e25-a147-2c4955002c30,Kuwait,"North America"
+8fa95e17-8158-48d4-9c58-efd081a5dbc7,Ethiopia,Australia
+f3037bd2-6ac7-4033-9c6d-94d9aa40a86c,"Antarctica (the territory South of 60 deg S)","South America"
+efdb3d01-f628-43d2-bf79-2f0dd4914b8c,Korea,Europe
+c2d7a5ce-10e4-4521-815b-313695385ffc,"South Georgia and the South Sandwich Islands","North America"
+7f5f86d8-04c3-4940-b314-cef441ec1de6,"San Marino",Asia
+802f65a3-abe7-4e21-9938-e45d9529152a,Georgia,"North America"
+31740822-0fab-43df-98d7-5f5c24262fa4,"Marshall Islands",Europe
+c36fe8ba-0e67-49e8-bf99-5962a8edf0fb,Madagascar,Europe
+c23ace03-5c21-457e-9743-aae0129b5720,"Saint Barthelemy","South America"
+584a7b81-cffa-4424-91f0-117aa6527d37,Greece,Africa
+c4763bd1-f474-4c27-8635-cb18352495de,Gibraltar,Africa
+607d508d-41e6-4f3b-ba86-08606db01679,Nicaragua,Australia
+10552e4c-0a13-46fd-b814-a91708f0405d,"Holy See (Vatican City State)",Australia
+081883d9-e3c2-419a-b9e7-3556c8c8883f,"Cook Islands",Australia
+fd57f3d0-69ee-44e2-beae-52dea02a3725,"Russian Federation",Europe
+4e50cec6-f9fc-4ef5-a63e-ae4d27fb3f58,"Dominican Republic","South America"
+26b6d346-1af1-498e-bcdb-4be88638d92f,Hungary,"South America"
+9c5fb48c-241d-4b42-9bf4-6217a1a02422,China,"North America"
+a78842e5-e43d-4467-8e8c-a67b05f9b057,"Russian Federation",Australia
+3f36c4a7-8966-4884-a331-6e939a6228e1,"New Zealand",Asia
+d7f3d7bb-e8b7-4aa7-8824-75aabf1a0eb2,Greece,Australia
+1e2cd706-a2e6-4195-8548-b38f8cd3916e,"Turks and Caicos Islands",Australia
+216b2873-41e3-4536-bb03-3ab426f08879,Zimbabwe,Europe
+3c813a4c-631f-45e2-b155-2ce4c54d944e,Jamaica,Africa
+5ff28913-fa03-4a3e-9fd9-61adbb27df6e,Benin,"North America"
+af002268-8111-401f-bd1c-bd945b6e83ce,Jordan,"South America"
+61ec31e1-6c7f-4c03-8397-b25aa48f0c81,Somalia,Asia
+dff7240d-9804-4e51-90d8-54927ce3ecb9,Senegal,Africa
+c6d39859-ea80-405c-ac8c-7ae7a123aa0e,Guyana,Africa
+e1de13b8-4c46-494a-a939-81a25c0e374b,Kenya,Asia
+3b5fd45e-69a6-469d-b70a-24585e64aaa8,Poland,"North America"
+5689bf0d-cb31-4c98-b187-9a2d9da32cf9,Colombia,"North America"
+60a76047-9ed7-4a96-a29f-eb3301da3318,Iran,Asia
+d179a92b-0ce7-4db2-8bcc-ae912a8f15ec,"United States of America","North America"
+57a0f2cc-994e-423c-9fc2-f48fc33e1111,"Czech Republic",Africa
+265241df-8776-4f48-b6b3-884f640ef70e,"Antarctica (the territory South of 60 deg S)","North America"
+abaed5b0-d8bc-4501-bc62-8f9d787f7886,Benin,"South America"
+742fb636-ca6d-4a5b-b053-636ef5b92932,"Isle of Man",Australia
+21e466f7-5071-4040-b9a8-016d54b89912,India,"South America"
+43fa0072-cbe8-4183-b3b0-0b4620d309f3,Jordan,Asia
+2bdd2b56-e425-4b90-ae19-d63556d1567d,Panama,Africa
+4b60f7e3-6bed-4428-9ce3-72913354baae,Bahamas,Asia
+d3a3f8ed-83e1-47be-a124-2b55109009a4,Cuba,"North America"
+2df7e70a-fd46-4553-bd3e-269c2f384931,Croatia,"South America"
+25348394-340b-4028-9e13-c139fa4960ea,"United Arab Emirates",Asia
+fcdf9052-69d2-4ed8-8f06-1ea10b9df350,Poland,"South America"
+fa2aed5b-cf11-4b28-9671-137645b4e799,Korea,"South America"
+2ea9bbbc-9499-4a5b-bfb8-e2a4d9cb7ef6,Swaziland,Asia
+425aef23-ccf5-4bc7-bc4b-242f0b3a218c,"Saint Helena",Australia
+102187c8-0caa-4ec4-a948-6014d1411fef,Chad,Asia
+3c8d6346-c2d2-48e1-bf3b-c6c9f5cbc5b5,Congo,Africa
+3635b5f6-6ac9-4c49-b2e7-10f3e64c0d1f,"Norfolk Island","South America"
+e43b75d7-e92d-4246-9ca4-0b6f0097e689,Somalia,Australia
+73567ad4-5d73-427e-ab7c-f1b251a33c95,Tunisia,Africa
+28294094-c1b2-48f0-9a8a-165d0924cfc5,Azerbaijan,Europe
+3cadfd68-1cd1-41ee-a96f-53bc13523f18,Guinea,Europe
+105bcc28-9740-400b-b5df-956dcac253dc,Guam,Africa
+63ccfac9-f4e4-4112-8f62-07dcdefa5953,Bhutan,"North America"
+2c00c872-0565-4514-9bc2-5d462ef386b4,Martinique,"North America"
+572c3c76-f62e-486f-bcb5-a3bd6204c7f4,Bhutan,Australia
+4b9c3ede-4a5f-4ef2-aa8f-7306b10af266,Belarus,Europe
+98aca127-da69-47a5-b2ca-5bf9e7d759d2,Ukraine,Africa
+93fac500-64ed-452f-bec4-f32d2a5fff22,Greece,"North America"
+9649145b-6c7c-4eb3-b9e7-b0b416df94e0,Kazakhstan,Africa
+016d3873-e58d-438b-938b-351bde7ead88,"Costa Rica","North America"
+ab45b942-2c86-4eed-b85b-d771aad8971c,Pakistan,"North America"
+90c15066-7fe9-42e4-8797-e6a75e2fbce7,"French Southern Territories",Asia
+07205d43-09e9-43b6-bcf6-8a0def1a054d,"Netherlands Antilles",Africa
+d31d7739-88fe-44c0-ad95-5c1f8e56a565,Ghana,Australia
+4a5ba2eb-9c9e-4048-877d-e06fa7d2e83c,Liechtenstein,"North America"
+945d52cb-926a-4fb6-a43d-c5e5346be6f3,Bhutan,Europe
+44d44963-4c2a-4f14-8148-c78844cfffad,Canada,Australia
+32b33ea7-85f0-484e-a1f3-c095601f2ef6,"Pitcairn Islands","South America"
+9a841fb8-b85e-4485-81b4-45a7e3d39250,Egypt,Australia
+2a5f5045-02f7-41fa-90fd-2642865ac78d,Chad,"North America"
+3c34315b-d594-4599-af25-5ea1d12a8652,"United Arab Emirates",Africa
+fb867df7-3bd2-493c-8ca9-fe20265a439b,"Cape Verde","South America"
+91461ece-83be-44b8-a43c-444f50f93b3f,Liechtenstein,Africa
+b849de3a-ad4a-4f45-a952-292c09c1fed3,Cameroon,"North America"
+ceafb9f5-a204-4bfb-a9f5-145abbc74d48,Azerbaijan,Asia
+20ef6453-6c7f-4270-bbca-14de644554e1,"Northern Mariana Islands",Asia
+769bd470-46f5-4c0e-8b90-5d05768b1f0d,"Cote d'Ivoire","South America"
+a10f45cb-4b51-47eb-979d-e7045504b5c4,"Falkland Islands (Malvinas)",Africa
+9e41f146-d0a3-4918-a9b9-879942c7e444,Canada,Europe
+d289bc12-9238-4e9d-b458-153f435a3896,Liechtenstein,Asia
+12b4b8d5-09ea-41dd-9ffa-60e3a73b9b6b,"French Southern Territories",Australia
+dbd01684-6e63-445f-8271-313c529b2d83,Armenia,"South America"
+19cc8cf5-806b-4115-bcba-08e271c639cc,"Kyrgyz Republic",Australia
+f5a4d57d-fd60-4439-a48a-407e9f14c51d,"Cocos (Keeling) Islands","North America"
+83fd3e94-7e7d-4438-9241-76d885ad3ee3,Luxembourg,Asia
+1b27d351-78d4-49ce-8830-c09ddfd920c2,Armenia,Europe
+7eb823a4-bce1-49e3-beac-3ae23d199b3e,"British Indian Ocean Territory (Chagos Archipelago)",Africa
+ab2a43fb-204c-4a52-8899-a298323fc4f1,Tokelau,Africa
+02f6cdfd-4a3a-46be-886e-07f1a266117d,Chile,"South America"
+f8c76a56-5cd8-4dd1-8a95-d7b9a32442f9,Albania,"South America"
+f428dc38-8dd1-4b0e-8171-643502b53d25,"Wallis and Futuna",Australia
+5806789e-6ef1-4e10-ba98-10dce1e370b8,Serbia,"North America"
+361d95d1-0f8f-4a0d-bdb9-e758937f5034,Cuba,Asia
+84030824-1a0c-46c4-ba8f-6d0b0ec62ffb,Greenland,Africa
+b9ce69f9-c3fa-42fd-b6f6-3ffc01b340b8,Nauru,Australia
+86c950ef-648f-4324-b741-b59ca0b97bc0,Mauritius,"South America"
+9c534b5b-0ea7-4eef-8760-cc6870ac07a5,Belize,"North America"
+ca5e2878-ad1a-4583-b6c2-8c8967f05991,"Pitcairn Islands",Africa
+5090219e-6bed-4e77-b967-1aa77b5260bd,Kenya,Australia
+a40bf9f5-75b8-4ec7-b05c-ff95ad30ffef,Tokelau,"South America"
+1bf9eef2-3356-412d-84f6-21d9a97023f2,Panama,Europe
+6cc65736-7590-4344-b523-696ee3740ade,Nauru,Asia
+d7e53ea7-5541-4dcc-b6e6-4ce8438eb5ae,Rwanda,Africa
+3cf301cc-684a-4417-a193-4e84fbe5259d,Italy,Asia
+ed08a208-16af-4c9b-98c9-22bda3be2976,Mexico,"North America"
+f0e42de8-7cf5-4f28-9546-b08e30d81fbd,Samoa,"South America"
+ae2fb4be-24cb-4d45-b8e2-19100b39a562,Oman,"South America"
+09b80667-adc1-45a0-b518-cb20a8d3f452,Somalia,Europe
+64490807-13b0-4fef-bd89-35e6d3525ae0,Cameroon,Australia
+5ac0e936-4493-4bbf-9bab-0c4e573618f1,Israel,Australia
+09d25c9d-2ff6-44b7-b970-24a1d200feb4,Niger,Europe
+482794e7-794e-447f-b882-d8553131de97,Mayotte,Africa
+f578c84c-29ce-484a-8ef0-bb4ae1b7936a,Bangladesh,Africa
+5d0a27b2-a117-4aed-b199-4e1aaa290eb0,Iraq,Europe
+573c29a1-3e51-4240-bc87-71c545565a56,Suriname,Australia
+9454f5d7-62cd-4997-afaf-4181197ad405,Peru,Europe
+92649349-681d-486d-a284-a42272fc4ad2,Montserrat,Europe
+9a032ad3-f0f9-435f-bb5b-e2e7fd37dbb4,Lebanon,Africa
+320f7590-ed88-4d63-ac94-55788f34cc4b,Ethiopia,Africa
+9cc1207b-3d06-47c6-b5eb-a16f2a7199b8,Moldova,"South America"
+244752a1-703a-4b1e-abd0-a612db4f08e4,Australia,Asia
+8102df21-980f-49c1-83f6-ef1ae6bd8a9e,Brazil,Australia
+f49dd642-a59a-484a-80c9-c668d9967058,"United States Virgin Islands","South America"
+ec803aa7-4572-4528-ac6d-08af415a1f0b,Bhutan,Asia
+571d69e1-0509-45d1-85b0-9c2e5e0f307b,"Costa Rica",Australia
+6c62e636-411c-43c8-a91a-e0363299be93,Philippines,Europe
+0ce554ba-b213-455e-8bbe-e94e1364c453,Senegal,"North America"
+540b92da-5c71-4459-b283-50db960f661d,Belarus,"North America"
+eba6c3a6-4d24-47a8-ba02-ff0dc69855e0,Martinique,Australia
+35866ef3-49d9-4285-879e-728c13584c81,"United States Virgin Islands",Europe
+5f43e29f-d041-4fa2-8787-f7703fad7208,Azerbaijan,"South America"
+911c2271-f781-4142-bde1-2353006b63b5,Monaco,Europe
+c80f2301-5dc0-4aa1-97e1-986865a271e1,Uzbekistan,"South America"
+1c5ae791-cfc1-4160-941c-09fe4ba1acc2,"South Africa",Africa
+06430119-f9e6-4f64-a7bd-77ea4fef7231,Samoa,Australia
+396a88c2-88b6-449c-a8b0-43b670e0311b,Liechtenstein,"South America"
+c7fa8470-46ca-46d0-82bb-3ae3c3dbea05,"Syrian Arab Republic","South America"
+c3af1f4a-fac3-45b0-b150-3cd62de905b1,Malaysia,Australia
+55cd8a58-f46b-4d60-b213-c3865402e734,"Hong Kong","North America"
+91face60-6696-4fe3-be79-d07722323fa8,Micronesia,"South America"
+dbe6c155-1aca-49ec-80e6-835245f75569,Mauritania,Africa
+4c9388f7-0546-43a8-8a42-ce32c14d40b3,"Wallis and Futuna","North America"
+5a4d0fde-a928-49f6-92d1-adebb0dce579,"Wallis and Futuna",Africa
+8da92b1e-7716-4655-8980-7c16944fc456,"South Georgia and the South Sandwich Islands","South America"
+1ee6c822-dc3c-4c99-b5bc-66bb95303c59,"Turks and Caicos Islands",Europe
+dc8039ed-56d2-4521-8d46-675c41cb6852,"French Guiana",Europe
+7e5fd09b-4e52-45f9-9321-e9ddef9341fc,Turkmenistan,"South America"
+cdb0af9f-9bdd-4b93-8619-51710cecc72e,Niue,Asia
+ddc9b23a-061a-4aa0-99a3-804b28d6786e,"British Virgin Islands",Europe
+f9d787ce-6f72-4e23-8ae7-24fa6735d106,Zimbabwe,"South America"
+e822ee8b-d601-4e5b-b0eb-0668a03700e0,Chad,Australia
+bc8400b1-a4b2-4851-a88b-e1a9b706a72a,Panama,"South America"
+d6ceb969-0d9c-4533-ada9-59e5ba2f17a6,Cameroon,Asia
+640a48b6-1bcc-414e-850a-12612e2f97db,Martinique,Europe
+3e8b3245-11c9-48e0-a7db-7ef61c708bdc,Yemen,Africa
+e5a46dfa-605b-45a2-b80a-82b6255e8db8,Tokelau,Asia
+65ca0aca-3a23-41e2-baef-bb7efc33540e,Suriname,Africa
+559f2f4d-1f16-4036-8ea1-6e435f8036b9,Norway,Europe
+54b5ad6a-b94c-436d-88ba-303fbe513cb9,"South Georgia and the South Sandwich Islands",Asia
+82abcc16-44fc-412e-af2c-ffec0ce9f9f3,Burundi,Australia
+93f4b9a6-2d20-47b1-aa43-93f8a9bdf2c5,Djibouti,"South America"
+25177904-7c1f-4762-ac4e-c377635b391a,Croatia,Europe
+4141ae8c-2e2b-4fdb-aeec-948fdda59196,"French Polynesia","North America"
+ee134ced-0b8c-49f3-84f9-267c2d843340,"New Caledonia",Europe
+219c0004-f4f1-4c1a-a0c2-02d52aa7ddd1,Cyprus,Europe
+4a32ad63-ca71-448b-ace9-5b3570597d68,Georgia,"South America"
+a499424b-549e-4088-a62d-f3d58df3eff0,Andorra,"North America"
+573404fa-e9cc-4466-81d0-fc27fef892ac,"Dominican Republic",Australia
+9c733ccf-1e53-493e-98ee-913c2b18c646,Kazakhstan,"North America"
+c111fa4b-ddf7-462c-8e6d-525fe93d691c,"Bosnia and Herzegovina","South America"
+b85e28ae-c3f4-4871-a62b-db0cc5d310ae,Albania,Australia
+3068c6a5-f824-4284-ba7d-3ec71de53a8c,Cuba,Europe
+f712af42-db53-4f10-8215-0437d899d52b,Norway,Africa
+e3a46bde-5b41-4954-93aa-40eed3803759,Maldives,Asia
+7b764048-e14a-47b7-a7e5-814a504a8172,Bulgaria,Australia
+307bb0f0-1135-4be9-a5db-1de10034d1bd,Tajikistan,Africa
+4e6f02b4-797b-45c1-8a6d-f3b89221ed34,Iran,Africa
+9cc3f8c8-c750-4f60-801f-f4d09ad646cc,Macao,"North America"
+c5eea7e5-814d-4aca-b0ac-36885dbbd9db,"El Salvador",Africa
+e9dd350e-7577-4b8e-96f5-24ef8d3949bf,Ecuador,Asia
+f59cfd0e-fb8c-4b43-8238-f05eccea8c78,Anguilla,"South America"
+3571aba8-5f28-46e8-ab45-8d3826cbe4bd,"Falkland Islands (Malvinas)",Europe
+9edf7243-a5fa-4d8e-993c-62a33b781e88,"United States Virgin Islands",Australia
+ae93965d-d7fa-4283-b335-a60f6feba9d8,Guatemala,Africa
+a96dfe3b-bb1f-4fac-87d0-c534c907088b,Myanmar,"South America"
+faf420ac-7a47-4d4c-8d62-ec4ef00ed1f1,Gabon,Africa
+e5b926c8-90fa-4600-9edd-4d4ee60fc0d9,"Costa Rica",Asia
+71b2e0ed-bd72-417e-9a5e-7d322fa85930,Jamaica,"South America"
+b346da0f-c4b4-4fc5-b602-400b6b1ec5d1,Mozambique,Europe
+8dbe992f-3b09-4c4e-924a-3324a466f2ca,Mauritania,Europe
+27284ced-fc16-46c4-8931-cd20002b92ef,Mexico,Asia
+7f365513-441a-4c56-9ff8-0befe378318b,Brazil,"South America"
+3ea9b399-71b6-44a8-ad1e-6e5f8bee54bc,Lebanon,"North America"
+75002f34-ff88-4d2e-81ec-90731e2c4148,"Hong Kong",Europe
+21384946-ef2c-4ad8-90aa-daab8bbebf0d,"Heard Island and McDonald Islands",Africa
+4ea99195-a2c6-43ff-bc33-042a9e872ebd,Micronesia,Africa
+deb7e08a-e5b9-48cb-83d6-05e56fe757e9,Togo,Europe
+009c20cc-c86f-481f-a579-d3764ea62337,"Antarctica (the territory South of 60 deg S)",Asia
+9381ac8f-11aa-4232-a535-014a59731992,Serbia,Australia
+10803d7a-42f7-4b6a-a2a3-fea084f4a5f5,"Cayman Islands","North America"
+fa06ca37-033e-4c12-8798-bd01127f7e4a,"Slovakia (Slovak Republic)",Australia
+fad47dd3-10a3-44c1-8845-0da473cada65,"Christmas Island",Africa
+9bce53f4-04ec-4f0b-9265-def8adf7c9d5,Slovenia,Europe
+ca0daae1-fe6b-47f3-bddf-4c5c4daf1494,Italy,Australia
+494f67ce-3d93-40d7-ad23-e9740e13b2cc,Seychelles,"North America"
+76b86cca-0db2-46eb-b25c-8effa703a25c,Uruguay,"North America"
+d850a206-487e-470c-a46e-f309cea3d8d8,Djibouti,Asia
+c8c896ef-a2f0-45a0-9e4a-472db9e2eca7,Colombia,Asia
+5df4a8d4-b981-4924-b925-eca889241f89,"Palestinian Territory",Africa
+e502b7ea-bcba-4ecd-872f-04f9c738ce53,"United Kingdom","South America"
+69d925ed-ca2c-4fe8-bbe5-97ff4546d03a,"Saint Helena","North America"
+997c3b63-545b-42ad-82da-861f4cb05cf7,"Hong Kong",Africa
+2a160354-8bd3-44e1-b032-a4e722a7f778,"United Arab Emirates",Europe
+ab12b6f6-dbfa-4839-8c6a-2f7aa0153bc7,Poland,Australia
+fd0e91ec-050c-4684-8b31-f6e9bfd9943b,Iraq,Australia
+cd402a85-0b09-4e91-80a0-f862f0dbea9b,Djibouti,"North America"
+9d96a630-88da-46ca-8e81-3d1e2e759f80,Montenegro,Australia
+76a3f6a8-655e-4eee-a093-9fd276701fd5,Luxembourg,"South America"
+171adc41-9a62-4d15-89c2-83f37d0e2cf6,Estonia,Europe
+47ed393e-fc35-48e7-9806-d1a68a725a95,Barbados,Africa
+84085bce-1a8b-44b5-8dbd-2f41fc43948a,"Slovakia (Slovak Republic)","South America"
+75667ba1-599f-40ea-8967-0fe9739ee8f7,Netherlands,Europe
+a85061a0-e407-4f45-9c14-4fd4fb0971a0,Guatemala,Australia
+ba15aa8c-0c87-44c0-a908-cff4a4463f7b,"Antarctica (the territory South of 60 deg S)",Africa
+e1d9a33b-b368-4521-91ba-46fb53f56f82,"Cape Verde",Europe
+0e0c0ddc-6d2d-4c38-bee1-3071e48d1a5a,"Saint Lucia","North America"
+aee2db6d-65db-4c9b-83a7-018f07efba8b,Fiji,"South America"
+741c027b-7648-4f20-bb8d-e58b8892b3ee,Ukraine,Asia
+452b04d6-352c-4f7b-9881-600f42e69b08,"New Caledonia",Australia
+4840397c-5a99-417d-8b3b-b4c1bbaf8aac,"Turks and Caicos Islands",Africa
+20d992e7-f78b-4b33-a427-23b0e99c0df9,Bhutan,Africa
+ee906283-6a93-4a05-9e39-f855648ba587,"Saint Vincent and the Grenadines",Europe
+65a281d6-a2f1-4539-9221-f135f3b68a83,Eritrea,Africa
+16b757a7-714a-4bb9-adae-efab0cf33bae,"Sierra Leone",Australia
+6f9cd172-0fae-42f8-b830-af69bb139c61,Burundi,"South America"
+402daae8-3bbc-4029-8b27-6199c205fb3f,"Central African Republic",Australia
+0e34491d-193e-4e43-addc-88fede85683d,Norway,"North America"
+481a75de-b2ef-45a3-bb6e-d558ef382bce,Gambia,Africa
+08698269-415b-4728-b0dc-5c52923e2cc9,Tuvalu,Africa
+d8076be7-80a5-419e-86df-7dfe8971e257,Malaysia,"North America"
+e8711305-4aa0-4ded-888f-894d879ad749,Kazakhstan,Asia
+67ae2225-faed-415e-9586-4e7e41dcb1bf,Barbados,Europe
+da78e332-777d-4802-83f4-e9c422bb7015,Jersey,Asia
+24b7eb4c-8fa2-4496-83d4-93ab11536e3b,"United Arab Emirates","South America"
+58052546-987b-4c3f-8af3-d2865c990ef6,Lesotho,"North America"
+da0e1394-42e4-4594-ad93-e13f6575c358,Belgium,"South America"
+53e7c735-c9d6-442c-a187-02507ff28a3e,Malta,Africa
+86a05f01-7a4b-4c73-be6f-458caea42231,Timor-Leste,"North America"
+194f76b1-d0c8-420e-b406-8526a8c43af2,"French Polynesia",Africa
+aac72c51-e9bc-4e87-837e-54b04066519c,Iceland,Australia
+8a14ba59-5b07-47f0-90b5-4720050fa82b,"American Samoa","North America"
+53aa71b1-4559-4db0-8fa8-963a512917ed,"Heard Island and McDonald Islands","North America"
+531e41a1-3ad4-4e24-b9e9-5f5e921ae831,Finland,"South America"
+0d1ae1e5-3073-4f8c-9c28-3dc4cb0b230e,"Lao People's Democratic Republic","South America"
+cbbb5fb1-2d37-48b2-b1a8-7d289137419a,Korea,"North America"
+cca00ffe-cd51-4e80-9a5e-195b225b11d0,Botswana,Asia
+f89d7d33-534f-488f-9a6d-aaf92369c7a0,Morocco,"North America"
+8a2b12b2-b231-4ab0-947b-939a69d83502,Martinique,Asia
+ac061d1b-ea61-49d1-8aa3-264696b256f1,Lebanon,Australia
+2cd44846-7696-4693-8bf5-67c61493a97c,Vanuatu,"South America"
+cd801e64-2a7c-4b91-b13d-89f72e4d2676,"French Southern Territories","South America"
+e519dd45-a286-44dd-96d4-474c5bda36ac,Cameroon,Africa
+5739080d-4518-42f8-8b0a-80be8b3a3e7b,Egypt,Asia
+ddd4cfb0-a503-4a5f-a337-cbff8c938b85,Mexico,Africa
+7da7bc7e-08f9-4b29-986a-7647ffbddb12,Qatar,Europe
+019042aa-7140-48f3-bb99-ad666d4375e3,Maldives,Europe
+548a29e4-bd59-46c8-9083-fae6fdb83a62,"Palestinian Territory",Asia
+1490febc-6d8c-4b46-af28-aabf87961bd0,Kazakhstan,Australia
+78ff7f73-b323-4ab4-9628-0f6d78620c03,Malta,Australia
+d8e3b5f2-2ab0-424c-bb57-44ddbbeb3a2f,Panama,Australia
+3c88e902-f950-4098-8f62-23bc9e8a9db0,Pakistan,Africa
+03acc430-e86c-4c55-b1fc-1f63f7abb133,Austria,Australia
+54726f3d-e56e-4f66-ad57-86b3593f55cd,Morocco,Africa
+9da93360-1b41-456c-a73b-978b081d2ba8,Angola,"South America"
+e6885fcc-5162-4711-a915-13f5afde866f,Ethiopia,Asia
+41950ffe-a02a-42e8-b2ad-27ec9e17a805,"American Samoa",Europe
+9cb6ec26-59f7-4a29-bc94-bf4734227015,Ghana,"North America"
+314f2354-b123-4174-aa56-27e332950eb8,Reunion,Asia
+9da4cfac-bb03-44ca-a8db-8d2d14e8226e,"Brunei Darussalam",Europe
+87620d07-6a79-4029-b4bc-51180b1f9ecc,Cameroon,"South America"
+b8137468-b55f-4b84-885f-cb7f7e250157,Montserrat,Australia
+79777de1-3f1b-439c-bf97-1e19e01ee6e3,Iceland,Asia
+1692afd2-4191-4073-84fa-ee200b33fddc,"Svalbard & Jan Mayen Islands","South America"
+7d8fad0a-43e4-4289-b9fa-c3712e28a011,"Cote d'Ivoire",Europe
+bc9a6035-b62c-4f90-8bd2-0a76ef15f12b,Mauritania,"South America"
+789c8918-0e9b-463a-bf23-9c08b519c755,"Svalbard & Jan Mayen Islands","North America"
+6ac70071-4000-400b-a350-bb1fcd646a5e,Myanmar,Africa
+207755f5-6b1a-4e8c-9539-c54eda1a47a3,Jersey,Australia
+249bbd94-6b57-4bf3-af55-89dca448b148,Iraq,"South America"
+5de4ef8e-8fc1-4f84-810d-c08e719626ad,Austria,Africa
+c2ae2916-aaa1-4def-a714-cbe00073529e,Namibia,"North America"
+fe3e0588-32bd-4176-9271-5a974e0ee2ab,"Sierra Leone","South America"
+061bc9bf-4a09-4326-9ca6-bf9782e9ff8c,"Pitcairn Islands",Europe
+9b8442fb-29d6-4a3c-87ed-2477b30cb78b,"New Zealand","North America"
+efae613f-2b19-4f02-af81-730ca102a18b,Mayotte,Europe
+d28086e8-486b-42e6-b5d1-00a977fae22f,Uruguay,Africa
+b0145ada-897d-4d6f-a917-b9ddda5c6bab,Niue,Australia
+b6c9b95d-8969-4723-b410-42348afb0a48,Denmark,Australia
+4b35eb94-cd0c-4022-adf3-450e32061bb8,Montenegro,Africa
+bed42c10-a934-4392-b260-f88dc4f437f6,Belarus,Australia
+b7ee803b-dc1a-466a-8ffb-5ccb1725fe7d,Chile,"North America"
+b4b59b6d-94f9-4516-9310-4ea6e6d9f2ca,Nigeria,Australia
+7ca9cda2-c29a-4337-ac64-2c42d32c4d5a,Algeria,"North America"
+3a030af5-14ee-4107-ac03-22eb04f6a6b7,"San Marino","South America"
+e8930b0b-edf3-4238-bc22-4cb38ad95639,Oman,"North America"
+f94127aa-8e62-4367-a813-f64e68a501ef,Bangladesh,Asia
+ffd91e62-d80e-4a62-9c75-ef9106c5f477,Thailand,"South America"
+a3a5de98-6a60-418c-8044-d197b6b526ec,Belgium,Asia
+b13cef99-4b84-401e-88b2-d0e0540d1854,Jordan,Africa
+b2b69e48-ff21-4a3d-a380-43a62b23eff4,Grenada,Europe
+b1cec75a-9f2b-4713-8f5e-e7c7d9ca1275,Bulgaria,"North America"
+1b0f3fcd-3c15-4cd3-942a-8866d0323614,"Holy See (Vatican City State)",Africa
+11227a97-1bf1-4ff6-942d-22a3d03f7528,Egypt,Europe
+03e1cf5a-a707-4a09-b310-d7a1c5d0a66a,Liechtenstein,Australia
+c0dcae4e-2602-445b-89c0-7f53682d748e,Lesotho,Europe
+4307784c-e3dc-45b3-952b-c24b52cbaec6,Suriname,Asia
+fc59f315-a6c7-45e6-98af-fa686a7eeb10,"Dominican Republic",Europe
+6145f6b4-b214-4ca8-82f8-d4c227a9e160,Benin,Europe
+95ea0d9f-7b31-45e8-9380-9bbd718d7c00,Finland,Australia
+637c07c2-6b2f-41b5-8677-36e2e3a184fc,Uruguay,"South America"
+9a53fa1f-8148-4466-91a5-532c12f5d3bd,Comoros,"North America"
+05ae7dd7-96ea-45d3-a5ac-aeb7ed5fcacd,Slovenia,"South America"
+ffa228ed-e7d7-47cd-bbd6-71414567af3f,Switzerland,"South America"
+95105931-a6d2-4560-b90f-38de6f926a82,Mali,"North America"
+c92f2870-b747-4f60-88f0-008570aebf1d,"Palestinian Territory","South America"
+3ef6ff05-8c1c-468c-ae64-490dca3fc98a,"New Zealand",Africa
+b657543d-7cff-46a0-a6de-4958f8144187,Japan,Africa
+de59fec0-b2eb-4205-b4c6-f9b2fec766b0,Palau,"South America"
+85db2f68-1463-4c49-9cc1-b9d5711d5ccb,Albania,Africa
+e407d757-ac72-402f-9362-216e7613b360,Palau,Europe
+7657619c-f4ad-432b-9677-3893388768fd,Bahrain,"South America"
+b3002a9e-c2f1-446c-a7c3-c46b078a4290,Netherlands,Africa
+79cd6f12-d073-4ad0-a060-e2f5b6f38eaa,Colombia,"South America"
+2140351e-12c6-490f-9fcf-acb4194e619a,Turkey,Europe
+efd560d0-9565-4491-b4ab-d11a92fdc911,Armenia,"North America"
+18889508-a8cb-4c42-acd3-93de04728f67,Vanuatu,Europe
+fd34639d-5f1b-4624-8c08-b62cef33c6da,"Bouvet Island (Bouvetoya)","North America"
+1970105a-a2be-4cb9-b8a3-e8ea416aa7cf,"Saint Pierre and Miquelon",Europe
+9cb9dce6-4fb5-47ab-bd62-e57ac9b7fdae,Nicaragua,"South America"
+9951202a-49c2-4ff3-99f9-489785322bb3,Eritrea,"North America"
+b5d4ede2-5c96-4235-901c-eb4ba21287eb,Bolivia,Africa
+0f7f94a8-6f61-4aca-8b05-413d489c00ae,Tokelau,Australia
+eb4bab71-393b-4f22-a79c-25ad497300a0,Rwanda,Europe
+23f5869a-a713-484d-974b-d24814cce26a,Iraq,Africa
+4eadb2d8-2d11-4843-9c5a-c428fa5575d9,Norway,"South America"
+2f02e13a-5c79-4bc5-8945-be78e48df571,Guyana,Europe
+f247cab0-04a6-47c4-a7cf-e46ea7318afe,Hungary,Europe
+4e38e845-32da-45e4-9bb5-964bcb6907fe,Iran,Australia
+c68fdd34-ec14-43db-ae72-0e2e746a259d,Nauru,Africa
+4801bf39-be9e-43a4-8e7b-6f15b2e7094a,"American Samoa",Africa
+f759a0da-bc00-4b9e-8b8b-fbabf4b5b2e8,Afghanistan,Asia
+c29f6d7e-7510-4e06-81b9-698d0acc4b05,Iran,"North America"
+df6d8261-72a5-49fb-88be-4341532182d4,Kiribati,"South America"
+b42e26d3-e03a-4664-aff9-80ccf99148e8,"Falkland Islands (Malvinas)",Asia
+bc644a44-b572-4444-9828-645fa6d9c345,"British Virgin Islands",Australia
+1f74a93c-9dac-4356-8a90-c1ee051a9c30,Philippines,Australia
+848a6954-328d-4d94-9783-6a5836706373,Ethiopia,"North America"
+6eaa0982-5f4a-4768-9bfb-7fa645f69cd2,Sweden,"South America"
+0f16a46b-d493-4827-98b1-9d1cc29f42fc,France,Africa
+6057373b-2d52-4824-9782-bf4cfc43d91e,Barbados,Australia
+6bcfceb2-1a8e-4811-857e-3b330127cdbc,Guernsey,Europe
+80d54702-a5d6-49e8-9bcb-7cb561b3dfaa,Malawi,Africa
+bf767bfd-fb9a-4cdc-93a1-e25e9edaba75,"Cook Islands","North America"
+001d65a6-2427-4afa-b179-2bb19c3a1f54,Israel,Africa
+2319ea56-645d-48f2-9a89-7f14b1c63cc7,Vietnam,Africa
+a760d491-956f-4958-a719-eb08e8e926ef,"Saint Barthelemy",Europe
+eb73b8bf-2c34-42e5-a05d-eb930419c743,Haiti,Africa
+9f685b23-c877-4aaa-ac75-f1903d2c6506,Montserrat,"South America"
+05d26c7b-ce3d-4f60-bd71-c2c0466e1d0b,"Palestinian Territory",Europe
+fa372535-3dda-4679-bfef-58528792387c,Iceland,Europe
+3946578b-1e3a-43f2-96e8-7451d436c873,Moldova,Australia
+d1cc6149-4b53-4507-a6d0-76866d75ff92,Qatar,Asia
+cc5ef3fc-dce6-4f17-a22c-82b1481c47d9,Malawi,Europe
+608ba432-0025-4cc3-9463-439a00ac9f5a,Romania,"North America"
+c4a19846-3184-4ace-9bae-6240764e04a7,Guadeloupe,Asia
+8dc1fb60-b437-40ca-8fe4-aee11c5a9258,Peru,Africa
+f48e942b-e55b-4a2d-9e00-357c957d50fe,Vanuatu,"North America"
+1716de27-f44c-4ee4-af16-2df7293f4a9b,Tunisia,Europe
+f51345de-1a36-47a2-ad48-a919310766fc,"United States Minor Outlying Islands","South America"
+dfb053bc-1807-4609-9a3c-7307118889c4,France,Asia
+9a63bd1b-a750-4c0e-8d10-f7ad1f670d4e,Niger,Africa
+bd6655e4-0376-4809-8202-10013da2d275,Nauru,"North America"
+fd12adea-4385-483a-abcf-99878c76b8ba,Mozambique,"North America"
+fb326e55-1bc1-48af-99b7-622b96bd35bd,Hungary,Africa
+d5ac434d-f1ee-4faa-b941-d5f7ff509cc9,Italy,Europe
+8637246f-17f0-4754-8e6b-f5e62e32aae7,"Brunei Darussalam",Asia
+2fd66f72-fb65-49a7-990b-4259884073f3,Indonesia,Asia
+3eb00e69-745c-444d-8d7c-ed4f01aa7300,Timor-Leste,"South America"
+c3ebfe6c-d706-4240-beaa-8cf8a7c65bf4,"United States of America",Australia
+9c4690ca-6046-40f5-ab91-0a5407a85c2e,Bangladesh,"South America"
+92b0415d-ec06-430c-8e5a-1f283d7140a0,Fiji,Africa
+ca177630-2316-4318-8cd8-4c1dc2a42931,Sweden,Asia
+1ca7f23f-ddb4-450f-9b60-58e7c8aa660d,"Antigua and Barbuda",Africa
+38297975-420a-4ef7-b1e2-65168b6582f6,"Antarctica (the territory South of 60 deg S)",Australia
+cc6f3c1d-0330-4a33-8141-8730cdccccc3,"Kyrgyz Republic","South America"
+8d2e5b23-1851-4aaf-a4b2-28716718a0c9,Sweden,Australia
+a4eca6b0-29e0-4983-93b9-c78f86c22627,Uganda,Africa
+eba84db7-37f8-410e-89eb-39d8e110a747,France,Australia
+fd8e7421-d14a-40f3-905d-dfe29d4e993a,"Falkland Islands (Malvinas)",Australia
+01b61fdc-902f-4991-8737-0e9e4e84de8d,Venezuela,"South America"
+b0537e53-1631-46c1-901b-8d96ef59dd98,"United Kingdom",Asia
+35acfb58-f4e0-4e49-a662-61493a7d344c,Croatia,"North America"
+4355d32b-f878-4c02-a226-433e1d102235,Kenya,Europe
+2ef4f371-47b2-4590-8794-5b7182a0a8b7,Taiwan,"South America"
+df77bb91-d577-4e67-a33c-daca0f4dfea6,Swaziland,Africa
+af5557db-1c5c-40f0-b045-53f28b040c84,Luxembourg,Africa
+28404dc6-1014-4052-960e-c81184b77829,Haiti,"South America"
+fe89c8c6-d5df-4b5f-a960-247c80d432dd,"Saudi Arabia",Asia
+3182b6d3-d0c9-4ad8-83f1-caffe7cb4cca,Tonga,Australia
+52f7851a-1538-4965-9818-569c3cd94abf,Malawi,Australia
+0e37345d-a13c-40f8-8a64-d0ccc775f2ce,"New Zealand","South America"
+7ed039ff-8b4b-4c64-986a-61a16023e9f2,Swaziland,Europe
+319b2833-d22f-4ee0-b9b4-b97e53cc0908,"Kyrgyz Republic","North America"
+45bd0567-c81b-4e6c-a698-268f9927a3b3,Albania,Asia
+30e76907-3065-41bc-914a-8d0cb3cc2b15,"Saint Lucia",Europe
+4b463b6d-7438-47d9-b380-54b1130759ac,Dominica,"South America"
+87993df7-d10b-49a7-a2a2-5796079fc0de,Kenya,"North America"
+cb162350-3dbc-4ca6-a6ed-a17ea4bfdb36,Uruguay,Asia
+bd86bbfb-68b4-4672-9c88-a6a99deb1103,"French Southern Territories",Africa
+21f1df18-078f-48e1-ac41-982cd1c647de,Guinea-Bissau,Asia
+9e918c8b-afac-4f48-bf8b-a8137ec12531,"Bouvet Island (Bouvetoya)",Europe
+b534721e-1427-4237-ba1a-08bb0bc20fcf,"French Guiana","South America"
+8d45d54e-1cde-459d-9f0b-e7c70a9b068b,Macedonia,Africa
+d4c172b0-cd3d-48e0-a77c-942c676b22ed,Greenland,Europe
+afa96d19-3b11-46d2-8253-7e1d88951152,Myanmar,Australia
+79a68b31-c073-4c76-9a67-fe060b407248,Kuwait,Australia
+8dfad965-7c43-4fb8-a7c6-13d15c409cc2,"United States Minor Outlying Islands",Asia
+1895f6e2-70c4-4346-90ea-cfa8a88cea0f,Australia,"North America"
+4fee4e7b-cce0-461b-a171-c9d1203f1d07,"British Indian Ocean Territory (Chagos Archipelago)","North America"
+004a78e6-07c2-4b9e-be7b-536e700a785a,"Saudi Arabia","South America"
+cddf8d83-8696-4702-9f04-e2ef32d7aaef,"Marshall Islands",Africa
+faccf033-ab9a-4dcc-b46b-064424ab99e2,Gabon,"North America"
+70b5188b-3670-40c9-8c4b-25ff3ac6fb18,Portugal,Asia
+a9d9f941-a865-401b-b9ca-0bde7bec673c,Armenia,Africa
+b57aa926-2748-425b-8fa0-f0d34e8792de,Tuvalu,Asia
+f3e50bb0-b045-4724-ac65-72ad4d51aac4,Palau,Asia
+e5e3659d-21bd-4d40-ade3-29903ba9f7d6,"Trinidad and Tobago",Europe
+7b1aad1a-9a75-41c0-82ac-229552f9d0e0,Cyprus,Australia
+9dbb788d-8d57-441a-9574-550b4e88092c,Barbados,"South America"
+ea7cf67a-fbfa-486d-83c4-c85bc546582b,Moldova,"North America"
+f8ba4cfa-d0b1-47fc-b81c-08dc0933af82,Singapore,"North America"
+505c2d76-7708-48f2-bba1-87be4cd78c3b,Niger,Australia
+a553fc2c-0379-4d15-8417-c6210a143895,Haiti,Asia
+0de028bf-bcd8-480c-8300-6d1b49afb670,Estonia,"North America"
+08bf5d4e-8eb6-41f8-8a81-7fa006e63eed,"Libyan Arab Jamahiriya","North America"
+d179e05b-7b46-41fc-83e1-f443b43d5f7b,Rwanda,Australia
+64ce665b-f229-4f86-a7d8-f638f3adb940,Morocco,Europe
+26a7b22a-617c-416d-bec9-c05a7fbf79dd,"El Salvador","South America"
+8291bc6e-9fbc-4b06-8c94-14631d5439a1,Netherlands,Australia
+d9b9572d-0b39-4155-85d7-837390af81d2,Kuwait,Europe
+05afd573-c559-4e43-9528-f5942e09f79a,Greenland,Australia
+ef21e159-220f-4ea1-b288-2323d38e582d,Anguilla,Asia
+fedf4492-9151-4293-bef1-e89fba325754,"Russian Federation",Africa
+e4181490-ce5e-4ae2-8a58-cf91c6386c3e,Palau,"North America"
+c9c34af5-7b14-4174-80f9-28779ec487aa,Switzerland,Australia
+6f114632-7b52-484d-8200-6847a748a56d,Vanuatu,Africa
+f60a6372-064c-4d8b-8393-84c89fd23f34,"New Zealand",Europe
+034a97c0-6d29-422d-a9ea-ac6af4566c7d,Iceland,Africa
+37b31bd8-f067-4627-a529-2fb324042ebd,Eritrea,Europe
+e022ded9-e85e-43da-880d-a2485e5a5d5d,"United Kingdom","North America"
+c564304f-cdfb-4fac-86c8-d86c78790997,"Saint Barthelemy",Australia
+3f27aaef-3336-45b5-bd04-ec8d5f50de3d,Austria,Europe
+73f7b019-f884-47e5-a0d9-41a195e34a94,Austria,"North America"
+c285d122-9029-41ed-8e1b-e75bcb6dee0a,Vietnam,Australia
+8fe7e95f-f5cd-4b35-bc48-5d85dc279402,"Antigua and Barbuda",Asia
+8ae554f3-bd50-45d5-8744-8081b3fd5f96,Niue,Europe
+68e0dc27-192d-4f71-9931-364ba89ce9fc,Lithuania,Australia
+c36add3a-50e4-4ba7-aecc-e226f44d1db9,Guadeloupe,Africa
+bed6e908-0829-4ba7-a0e9-aa897ed35e92,"French Polynesia",Australia
+599df0d6-f9be-4022-8383-7e269517b6a4,Tanzania,Europe
+4f06d41d-427a-42a3-8953-115adfa5b3d8,Liberia,"North America"
+6076a93e-6240-4de1-a3b0-12eb5be8e92d,Tajikistan,Europe
+de01227c-489f-4813-8b33-feb9cd3d8dff,"Saint Vincent and the Grenadines",Australia
+37a6a248-e120-4a6b-ae97-725f9474e854,"United States Minor Outlying Islands",Africa
+9b831eda-c448-4db5-8b80-80f24f12a1ef,"Saint Kitts and Nevis",Asia
+01130d22-81b8-4b73-887b-7337e96e5daf,Malta,"North America"
+f6aa9b66-be0a-4663-bf89-acb3ed05a7d6,Haiti,Australia
+bd9ae4ea-15e1-4d09-a351-2c03c9df7e21,Montenegro,Asia
+c98b577c-16e3-4560-b26a-c0b8afc1ba5e,"Norfolk Island",Australia
+30d12b18-d0c2-4155-bab7-5a2419215843,Romania,Asia
+1521aafd-7580-4b3d-a5a5-da9798b7638b,Mayotte,"South America"
+d9281993-ee5e-4938-835f-7ac4a04c6ad0,"Kyrgyz Republic",Africa
+bf36bd96-a1b0-4ca9-8dfb-061b676e1dba,Montserrat,"North America"
+ecb4af0e-8ba1-49d8-a3f1-b2cb7aea9352,"Lao People's Democratic Republic",Australia
+4cade851-cabf-40e7-a5ec-2badf58118c0,Serbia,Europe
+147b3261-1185-4e03-8da8-7a59cc35addb,Bahamas,Australia
+0bced990-4a74-4164-8f01-03e7e48382d7,Macedonia,"South America"
+3fa0de62-5f1a-4f9d-bbc2-263f3e3368af,Azerbaijan,Australia
+fe467cd5-e52a-473a-afbf-97ea1848497a,Grenada,"North America"
+75462e88-525e-4f16-a05b-0b556dc044b7,"Lao People's Democratic Republic",Europe
+ead7157e-44a7-4385-9af7-7c5b00b612d0,"South Georgia and the South Sandwich Islands",Africa
+bda0f8ba-9a56-43f8-830e-613b2b8cd864,India,Europe
+4f06213e-0151-4d75-918f-026e090868e1,Mozambique,Australia
+a0678e2f-458d-424c-bb0f-44674be516b9,Switzerland,"North America"
+ee61ece0-554c-4b6b-bec6-834f53e76b56,Paraguay,Australia
+b6bc6aa2-36c9-49a7-9664-ecd7e7bace8c,Timor-Leste,Africa
+7d5dbb9d-dd54-4b72-b415-851eca6619dc,Philippines,Africa
+67db3286-86f8-4511-a5f2-73ecc5242625,Niger,"North America"
+a45614e9-fdae-4352-9c0c-6385bbb26c56,Somalia,Africa
+1d9657d8-944d-4bd1-ab78-ef91387e6676,Nicaragua,"North America"
+56490d26-3755-4f22-b696-7795fe47b31c,Belize,Asia
+0fc1ec9d-5bf0-4060-a0e4-a8c1438e46fe,Congo,"South America"
+d687b6d1-61fa-4f2b-bfac-aaf007994ed3,"Turks and Caicos Islands",Asia
+086979ab-5d1f-4043-9282-5785a7cceaa7,Cuba,Africa
+1b542351-b3a8-41ab-9c31-3fd1c50c90f2,Jamaica,Asia
+6869fc08-4ea7-45bf-9619-dfae3b5b9715,Thailand,Australia
+e79759ef-1236-4a48-bcd3-1e2956b0134e,Honduras,Africa
+7f33bd0c-35c9-468f-8b81-2cd48611e822,Madagascar,Asia
+73442a06-eccb-47fe-a821-ea03240647b7,Korea,Asia
+420aa48b-1d7e-4d96-8d09-b779126b5aa0,"Central African Republic","North America"
+cb3154a5-9c2f-4d73-be79-f66782de0493,Philippines,"South America"
+2a0ba88a-847b-46ab-9558-00f05ec126dc,Suriname,Europe
+5aea016d-881c-4303-bbf6-9076256f8a40,"French Southern Territories",Europe
+7942179c-c6df-4e53-aa15-da40ecf067bc,Netherlands,"North America"
+29430a22-8087-482d-ba82-01865e03dd41,"Heard Island and McDonald Islands",Asia
+4cc9370a-bc5b-4735-b2e5-2676767b6f31,"United Arab Emirates",Australia
+1ef6571e-186d-4aaa-bfef-9defb339b0b3,"Czech Republic",Europe
+f9ffe9b7-a843-455d-b53a-39db74719d68,"Cocos (Keeling) Islands",Africa
+a3af9ae3-5f93-459b-8d17-f7a0a80efa5d,Gabon,Europe
+9073dd16-dec1-41c4-9953-0aa9c19b7e8f,"Norfolk Island",Europe
+e37400fc-e19a-49e4-a989-037e6e302e0a,"United States Virgin Islands",Asia
+114f7011-40ea-4131-9f1f-12095a1261bd,"Saint Pierre and Miquelon",Australia
+6501defd-e5a4-46d2-8c60-956dc263290a,"South Georgia and the South Sandwich Islands",Australia
+ad53fcff-736a-48f9-b5d1-8dd5f610e985,Spain,Asia
+0dac2a81-d7df-4a19-9e26-2ae97ce4802b,Yemen,"North America"
+f26c590c-b073-4b7d-86b0-280f51318822,Bolivia,Asia
+43d9a229-024f-4b06-ad3e-6a3c6b10d97e,Kenya,"South America"
+af1c5e36-3d23-4bc0-a798-d9bbf5657d4e,Dominica,Asia
+6555941d-6016-44da-9bd0-4e12cb578406,Estonia,Africa
+1bd48a26-1f75-4d60-99d7-eaa4d1e27bcc,Haiti,Europe
+42416cd5-4d0a-449d-a98b-cad6cdb86801,Taiwan,Africa
+a27f68b2-d85d-4625-9407-6bccb3549c4b,"Sri Lanka","South America"
+4ea8cf1e-2a61-4633-8ac9-ccd2ead9aaa8,Israel,Asia
+2274299c-91e3-47c5-87ee-f96821c694b9,Turkmenistan,Africa
+92569a68-4ffd-40be-9884-624ee2855d93,"Solomon Islands","North America"
+d07dea9f-f44f-4e25-9660-554465cb6add,"Bouvet Island (Bouvetoya)",Africa
+32c942da-5e22-4da5-ae16-a08d5b270874,"Saint Pierre and Miquelon",Africa
+c6bc777f-542d-4aa0-8c1b-11785804d5ff,Jordan,"North America"
+eb7cb237-08ef-487c-ba7d-49d4bf822c00,Cambodia,Europe
+3a77b7bb-8713-4f93-96a0-becb1cf981f8,Turkey,"South America"
+3fffd763-d93b-40fe-ba55-9d44a4023f24,Guinea,Asia
+4af22912-4ad9-46f4-9667-6e859dfb26df,"Russian Federation",Asia
+138ede21-a4fe-488a-a4ed-602f4c7e11a8,Sudan,"South America"
+e65946f7-28bf-40ee-871c-7a13c989514d,Slovenia,Africa
+b2bf3c25-b105-4a49-9d21-ec93c87b2ff8,"Northern Mariana Islands","North America"
+b5c07d00-2a36-43ad-b71d-838cf2d4e1a1,"Central African Republic","South America"
+d0d24e05-1822-4b69-a5ee-27bc5116d190,Mongolia,Asia
+63871cfc-8a69-424b-8404-764a864ee169,Kenya,Africa
+16cb96c6-0a0e-4a5a-b9ec-eaa7b66ebbf5,Tuvalu,"South America"
+6f9ad937-98c8-47fb-bff3-68a72bad61d1,"Antigua and Barbuda",Australia
+0c1841ee-3493-4d11-bad5-106c1518091b,"Palestinian Territory","North America"
+7ca17b08-c1fb-467b-950a-91e7fd95133c,Chile,Africa
+5d941361-0788-41ea-b9c2-b211d507b0b6,Belize,Europe
+22aeadfa-411b-4f2b-bf21-dcdecb85a2e2,Algeria,Asia
+d15c8c32-5951-4d4c-964a-566455c3ff5a,Zambia,Asia
+723c4308-2cbc-4002-8067-ee6db149bbbd,"Sri Lanka",Asia
+651f1c63-0f7e-4b81-82fb-93d3daeb733d,Iceland,"South America"
+1385e94d-2f64-41fd-b131-2343be11459c,Philippines,Asia
+04be2fd5-1626-469b-9246-eb4a099717cf,Georgia,Africa
+fad2ab53-6c61-4047-89ae-0200b449b043,"Netherlands Antilles",Asia
+049d86f4-3e71-430b-9c72-510520aaf604,Guam,Europe
+b5048c49-c7a5-4bea-b868-34213461e2f4,"Hong Kong",Asia
+5aea212c-0224-40f0-a15f-94e3f9d0f615,Sweden,Africa
+a6ffc3cc-6ae2-4800-ad5b-6a87b36003d7,Denmark,Europe
+77cd6488-46ab-47ba-a740-98919384325d,Namibia,Asia
+96bdfedc-0169-42d7-b235-2e94b3d60d7a,Reunion,"North America"
+ef9c4ef7-0a3a-4c26-b520-bb536f1efb96,"French Southern Territories","North America"
+1a4165c1-e109-4dce-b0fa-39d4d1276fe4,"New Caledonia",Asia
+abbfc2c0-0ccc-4318-b4a6-8769d661fa3e,Ecuador,"North America"
+586730ea-fc3c-42dc-887c-90e7eea8f2f5,"Marshall Islands",Australia
+6e0b06b5-7773-4e46-b8ce-be45705fd5fd,"Cape Verde",Asia
+bd87045b-5bc0-4a15-8753-f43ab24c2bdd,"Cayman Islands",Asia
+c155a42d-4c13-4d74-9bca-b42a05f4a4e4,"Dominican Republic",Africa
+2b102dcc-8ad8-4f9f-aaab-1fbf40925f12,Nigeria,Europe
+028375a0-497f-4e13-8f56-ef77083e269f,Tanzania,Asia
+35d1de9d-65f9-4c8d-8a09-79b53085b113,China,Europe
+a599a2f6-f140-490d-9c77-6bf8f01abf43,Japan,"North America"
+a4592030-45a0-4220-834c-2f4e0d86d16a,Afghanistan,Europe
+b29e1027-5b88-4c6f-9c4d-77cd7cac1eee,Ukraine,"North America"
+af98ced5-ff41-4bad-8aee-fc5ef39898aa,Hungary,Asia
+e460ba46-b0fb-442c-872a-a12bc44a16b7,Botswana,"South America"
+aed853f8-5dd3-4032-bb14-a79e8acaf65d,Samoa,Asia
+eb679075-80e8-4929-91fa-ab4bafd12f47,Paraguay,"South America"
+85faabed-8cca-484e-b4ed-f99cc41abc75,Netherlands,"South America"
+e6c6a94e-82d6-4ecd-ab2b-7c1312aeb839,"Costa Rica","South America"
+e0fa656e-8e48-4ae9-a92c-0a236fd40422,Panama,"North America"
+f8ea4878-0733-4a2c-8df7-4b532024ffcf,Haiti,"North America"
+e8306d4f-93b2-4aa0-b327-c803a57911c5,"Northern Mariana Islands",Africa
+e754c4e8-77cb-4345-90dd-3aa6ed142af7,"Hong Kong",Australia
+54e7e1c7-fe21-4767-aa39-13a4d9959bd3,"Burkina Faso",Africa
+17ac0d58-ddf2-4d08-b87d-c82685cd39f4,Latvia,Africa
+febf28d7-d9bc-4376-8747-47036c0e63ff,Swaziland,Australia
+01b13c37-7f3f-467d-be57-72bd2d21cae0,"Cocos (Keeling) Islands",Europe
+6f33f4f5-424e-475c-bd15-4386ad0dacd4,"Saint Helena",Europe
+78ff75e2-5d0c-43eb-b26f-31575363e644,"Svalbard & Jan Mayen Islands",Africa
+e8bb1b8f-4251-474e-8741-1957d24ada45,Serbia,Asia
+718a8441-be18-4f83-a9e8-8c8c56c2897e,Mayotte,Asia
+ea60f778-9b54-4ff0-849b-890e367dfa2c,Kazakhstan,Europe
+daca1781-c978-4a05-bd17-2d22ebd5fb7b,"Holy See (Vatican City State)","North America"
+ba750718-b01d-42e6-af51-5035f984f011,Madagascar,Africa
+4370a900-988c-4eb2-96e6-7e5be5d16169,"Saint Barthelemy",Africa
+bb4a79d3-da22-4d40-8d8a-3ef55f1ae7c9,Portugal,Australia
+b1155609-a03d-4fcb-bc23-46ae2a2d5fee,Brazil,Europe
+304c3bda-07dc-438e-88c2-3f489a1f4afd,"New Caledonia","North America"
+ccbd2bfd-389d-44df-a22a-032621072529,Togo,"South America"
+d800727f-f6c8-4bee-aec6-e6651471c40a,Macedonia,Australia
+7b3c1575-7ff9-4323-a9f4-2c376eb5fc50,"Cayman Islands",Australia
+c02254bd-4001-4ea9-b044-e7b56224a499,Indonesia,Europe
+933de3e0-13d2-414f-adb5-4282a81a05f2,"United States Virgin Islands","North America"
+5a93f26a-12ef-43f4-a48f-b598ed1a752d,Namibia,Europe
+802081bd-59fc-4e2c-ac18-f2ba9fd085cf,Guernsey,Africa
+0b857c27-49b3-4972-8ff3-32a186a69ab5,"San Marino",Africa
+f6cfddc9-c097-4cda-a2ac-c18aac073663,"Czech Republic",Asia
+2ab1cb23-68c9-4556-9291-49899a3d3fa3,"Cook Islands",Europe
+78403e1f-0ed9-4800-9ea0-7513fc818f13,Thailand,Asia
+d3cab76e-7633-445e-858a-77d6e2a7e2de,Fiji,Europe
+f110fede-91ba-41cb-abc5-3e0e8a12fec9,Mali,"South America"
+36acf9f8-74e7-41f9-bcd3-4e56906e97ad,Australia,Australia
+827812d7-34f3-460f-83f4-bf1cfb73edec,Oman,Europe
+8b1c69c4-d6f8-4229-a441-4a5ae7cf7269,Malaysia,"South America"
+6c72cc54-cd50-40bd-bfda-b2a4539d9cf4,Cuba,"South America"
+cbc42653-8e70-440b-8319-5bd607594976,Monaco,"South America"
+19405ed4-a1a8-45d6-8236-67542c6b4d89,Montenegro,Europe
+b6084a75-813c-4ee6-b5a0-1cc612519305,Cambodia,Africa
+2562574e-ef28-43cc-bd99-0a35d45d082d,Canada,"South America"
+3ad9fcf8-086d-452c-a198-e62b948c0980,"Northern Mariana Islands",Australia
+eafcd97e-effe-4eab-84b4-f8a0cd83acd6,Comoros,Africa
+0cc4f727-e7c0-4496-ba47-43f3c44595a4,Sudan,Australia
+187b602a-972d-4c46-899f-cbd1bb65304d,Uruguay,Europe
+d474deb7-da9b-4807-9a74-2c758d6779fc,Andorra,Asia
+8f2c49a1-9688-477e-ab97-205fa50779dd,Nigeria,Africa
+a8d789c5-135e-4bad-a1bc-24ed42eb14cc,Bermuda,Africa
+182a36e4-e38a-4c24-b3c1-68fa836e1b4d,Cambodia,Australia
+3b3f7d93-9ddf-4821-9219-64eabd25314e,"Bosnia and Herzegovina",Europe
+e27eb69f-7d49-417b-9d5d-a073d78374ec,Niue,Africa
+a2bd92f9-6b68-4985-9740-8caf0baee831,"French Polynesia",Europe
+318bcf2f-6298-4246-ac33-9c5688eebde8,Mayotte,Australia
+60e5f6a6-8245-452a-bbaa-93267edcd3d6,Serbia,Africa
+c4a9de24-0328-4020-970a-69a62f787177,Guyana,Australia
+be758d77-a2d2-4580-8eb9-f66c87e2b35f,"South Africa",Europe
+6ce35d41-2845-44f6-bd05-dd194566e915,Lebanon,"South America"
+d0c57e94-5d2e-41cb-a6d1-9f3498b930ae,"Puerto Rico",Australia
+7f62e606-7568-4032-b3c9-e57c566a4968,Jamaica,Australia
+454f567c-bee5-44f7-a840-d11d9cfd6ab6,"Saint Kitts and Nevis",Africa
+e48f56b2-8015-42ad-943e-25328e433018,"Isle of Man",Africa
+876b9852-87c4-4429-ac56-40223620f278,Greenland,"North America"
+95525550-8066-43c2-a06c-4deb053649dd,"Antigua and Barbuda","North America"
+df6fa7ff-1faf-4578-ae68-ba18a9c965fe,"British Virgin Islands",Asia
+af44ad10-4fd1-4033-9c91-59a4778e3c3e,Belgium,Europe
+b9055fc1-36f0-4a35-8317-1469c17bc924,Aruba,"North America"
+924ef53e-cda8-4ea6-b5e6-99aa553ec73a,Bahrain,Africa
+fd7d6023-2b3f-469d-947d-eefdb22e0c60,Honduras,"North America"
+5851d86c-5045-4755-9a2f-13cb5635fdc7,Morocco,Australia
+d0d71b12-35e9-4ce1-96a2-eb7314204fff,"United States of America",Africa
+ccf72b8e-e163-430f-ba0d-4dfa7b6b7078,"Costa Rica",Africa
+c32c39bd-92b4-4080-a98b-7891adca1272,"Svalbard & Jan Mayen Islands",Asia
+2804891b-2af1-472a-8e5d-ec84581399b4,Sudan,"North America"
+abd11021-1824-446a-b049-8acd0288173c,"Saudi Arabia",Europe
+ee698f1c-fdad-45d2-924a-b9b08cbffdbc,Anguilla,Europe
+87955107-8c17-48d1-a91b-af00777cd1e2,Gambia,"South America"
+5160a511-94df-413c-b332-105506627887,"British Virgin Islands","South America"
+dbc6195f-ce62-498a-9403-7973678b2a13,Algeria,Europe
+0ef66913-f71b-493c-85d7-34428d3a1354,"Saudi Arabia",Australia
+f0c88af9-eaaa-4539-950a-b92157a46cf0,"Papua New Guinea","South America"
+25f98517-8272-4fcb-9e50-2b1243abdec2,Argentina,"South America"
+4f6b93ea-8517-4967-92c7-542e7ed27dcf,Tanzania,"North America"
+3b2eb80f-d694-4f56-b1f9-1744cfad3fec,Poland,Africa
+20ed166a-9e8d-4712-89fb-19feacc581de,Latvia,"North America"
+b7caeb99-f68a-4806-a494-4bb9bbc24828,Micronesia,Asia
+423929cb-5c4a-47c7-a7c4-56b55abf3eac,Aruba,Europe
+a2dafd5b-184b-4e6d-898e-95485684f3d6,Tokelau,"North America"
+730435c8-3fbf-44b5-af89-79cc0eb1f5b0,Uruguay,Australia
+d690e19a-77d6-4bb1-b62b-e64033476326,India,Africa
+de9cf9be-f56f-4425-91af-7a610dfd008a,Honduras,Australia
+299bb32b-2fd3-46a3-be74-42eb59c98c22,Anguilla,"North America"
+d439d09e-64b3-4760-ab11-f284c7f20523,Latvia,Australia
+3f8f0565-9c23-4d12-b662-6f0762155f08,Martinique,Africa
+f9094be2-9b9a-4e46-98fd-8d933633bef0,"Burkina Faso",Europe
+ffdce66d-d859-4c2a-b773-f41f531429af,"Netherlands Antilles","South America"
+dc45ab89-80a6-4ef1-94f5-c25024414390,Ireland,Asia
+0e313c48-81ac-4be9-a5a7-acfee2ae82fc,Chad,Africa
+fad7ca02-5bbe-4abb-8581-0296d5349146,Pakistan,"South America"
+34741760-a6ef-4213-b5fd-cac2b25c7bea,"American Samoa",Asia
+dabd88fa-9c46-4268-8058-ba4fb2ca4d18,Turkey,Australia
+dcacb62c-c74c-4361-b0bb-cfaed253a14c,"Bosnia and Herzegovina",Africa
+51f01aae-1bdf-426a-9fb0-be7fb9ea3de4,"Equatorial Guinea",Australia
+b0f8016d-c8c8-43b3-9bcb-767c18a30cd3,"Puerto Rico",Africa
+de7d2b2f-5a92-4598-854d-425f96b05c79,"Antarctica (the territory South of 60 deg S)",Europe
+2280981b-4a84-420b-9434-84e2cfe2d84a,Grenada,Australia
+f13bdc50-b008-4c2c-be69-2a8ba6e80539,Somalia,"South America"
+60007c52-7193-4d06-9321-527e908d82f1,Germany,Europe
+cf0d8e4e-a4d5-4d3c-9a24-f1f24348ba98,Lesotho,Australia
+f63e6b6a-b3c3-4992-8ac2-6db91f7e7e6d,Eritrea,Asia
+a13a4896-e566-4835-815b-e8ea67fb1a1b,Argentina,Asia
+6f5d939d-26de-4e15-a45e-2506e2d44e1c,"Holy See (Vatican City State)","South America"
+556a85ef-2171-4241-815e-2a56d72064dd,Denmark,Africa
+51acf1fe-c892-4cc9-ae44-2cb48800af23,Tajikistan,Asia
+07f4ceaf-5bf6-419a-bfc6-fefe7fa9153c,Moldova,Asia
+31705db0-91c0-4334-805b-a645bab041a6,"Libyan Arab Jamahiriya",Australia
+edac54d8-95d3-4e13-8522-9c49d268b5fe,Congo,Australia
+53162cc7-f67f-473c-b657-55df9011936d,"Costa Rica",Europe
+b136e417-4ae4-4c59-8f3b-20bf40cac7ea,Mauritania,"North America"
+5cdd035a-9e1b-4a1f-b25f-1fbfb8427384,Malawi,Asia
+5288dcd0-1893-4427-b7c9-0f4848b9c1f2,Belarus,Asia
+6799146f-9230-455b-a581-1e968c93edc8,"San Marino",Europe
+87e8ebee-d01d-47ee-9a02-a0aa06acb046,"Saint Kitts and Nevis","South America"
+e8ea4a23-0cbe-4e92-8ea3-4c325b5b8956,Venezuela,Africa
+2568b68a-760e-463e-b7cc-327d07e2fe39,Belize,Africa
+4a18c744-96be-49d1-bbeb-e2ac09b962b5,Madagascar,"North America"
+b4339a6e-562d-4852-925b-012493c2b5bb,Guernsey,"South America"
+b219055a-d0d5-4b29-ab67-dace656a93fa,Luxembourg,Australia
+0cd90c7c-ab0d-493a-9e0e-4002768994e1,Myanmar,Europe
+679af213-502a-46ee-98f4-73bf3547f754,"Bouvet Island (Bouvetoya)",Asia
+cc24138b-8ecd-4f7f-ad68-12de7a9617f1,Yemen,Australia
+933a95fc-be70-4eb4-aaeb-95d0ecbc96dd,"Solomon Islands",Asia
+47457e32-4156-42a9-8955-d5ca06da4928,Panama,Asia
+90c60691-7c9f-48ec-9c68-5f452eaea1a1,Macedonia,"North America"
+aad6907d-63ca-493f-b177-a597cdcfdb7e,China,Africa
+964eb687-d846-47f4-b3d3-b7d350ac564b,"El Salvador",Europe
+36c487bf-a5f0-4f62-93e6-9d5f19590280,Maldives,"South America"
+0c3e4969-94ff-46c0-8173-b8c75a92aa27,"Saint Martin",Asia
+e26ecbc1-d6c9-48a2-a768-f3c233c14073,Monaco,Africa
+7c1a22de-43b9-4e56-9498-0250ffbce5f4,Chad,"South America"
+8e21d27d-d402-462c-bfae-a3974a747bd2,India,"North America"
+f0f94b89-ecd1-48b2-9a83-06c4699d918e,Israel,"South America"
+25cd684c-6082-44bb-8c45-09d5e8b63dcd,Nicaragua,Asia
+4b7473c4-14e3-4f26-8807-a7999cd9e880,Turkey,Africa
+18d033ed-ab48-436b-b6a8-fae795e60925,Senegal,Asia
+184ed6b6-331d-46bb-ae8f-4e886df0143e,Denmark,"South America"
+eac1da44-ae18-4c3c-ba3f-fb561d7cee16,Finland,"North America"
+557ac85e-2545-4dc8-9643-ebc8dc51ea86,Benin,Africa
+6fd1ca80-b4fc-408f-9fec-49dc4a3f8fa2,"United States of America",Asia
+0ca9d82b-f3eb-48a2-b31e-c565d9997914,Italy,Africa
+f344de0f-dce8-40af-8be3-f9467ceb072b,Singapore,Europe
+edf94532-3cf4-44dd-92c2-2d5fccbe356c,Reunion,"South America"
+545ad04d-28eb-48b0-baec-0bf9e89f95d6,China,"South America"
+468d0d0a-eb87-471f-9105-9a102de89c27,Togo,Africa
+7c27e0d2-5d0e-4520-a713-3d2cb553a0ae,Guam,"South America"
+bfa742ed-ba60-4330-883b-1b5aea5ceef2,Guam,"North America"
+254b1231-b74f-4627-8815-a9130245d1f6,Jersey,Europe
+0ddecc84-d98c-48c0-9893-f861de7922eb,Yemen,Europe
+7426d1bd-834f-4b7c-96b1-c22ae42dd2bf,"South Africa","North America"
+0071926a-97c2-45ca-addc-8a1abc980322,"Saint Kitts and Nevis",Europe
+69d9d2b3-843f-4274-ab35-0823780f7921,"Cocos (Keeling) Islands",Asia
+db7f6636-fc6f-453c-ac98-6a818b0dfac7,Norway,Australia
+2065a919-9e3e-40cb-8770-a1887ff5974e,Macao,Australia
+e72d9e67-d21c-4949-8f56-2bc1e473d351,Bermuda,"South America"
+cc4fc4c4-b3db-4f18-91de-ae90e966f306,Latvia,Asia
+7cb5e094-4b83-4580-b1ac-703b28953bca,"Saint Martin","South America"
+93cffb58-7901-4379-8cba-d922c8a506c8,"Saint Pierre and Miquelon","North America"
+da2e2289-a8f2-4a4a-bd57-e1248b40f0c3,"Syrian Arab Republic",Asia
+4c0de8b8-a3a0-4832-b2b2-c4632095b9b7,"Slovakia (Slovak Republic)",Africa
+10f5eb4e-ea5d-4ef3-9eeb-99ac7df75387,"Lao People's Democratic Republic","North America"
+7e0a9413-e509-476e-95a4-231f5a3c28f7,Tanzania,"South America"
+e0dbf94d-144d-4618-8f93-19273e0bab37,Turkmenistan,Australia
+9a18fbe5-0461-4576-ad53-3e6926c16a53,Jamaica,Europe
+dcea0cdd-5694-46b1-bb04-70e7c42c3c32,Cyprus,Asia
+544ac471-aa3b-494c-b1ec-0b3c57eadbf2,"Trinidad and Tobago",Australia
+dc041561-8038-413b-915c-951c72c1f292,Gabon,Asia
+8127e868-1e4c-4d13-8de1-4b9dc0b041b8,"Sierra Leone",Europe
+9a49983c-2ea0-4b33-85db-c209126f5af7,Australia,Africa
+d1e32b2b-ec43-4c2f-8ee6-710972faedeb,Guatemala,"North America"
+9cf037fd-4908-410b-abc6-7a36a42f79cd,Burundi,Asia
+e058ad2d-404e-4f10-9a1b-c9669a1d8086,Bangladesh,Australia
+67fe66d1-2208-484c-b884-dec834fa1ace,"Bosnia and Herzegovina","North America"
+4156fcc3-dc07-446d-bf00-a9d968f5c9bf,"South Georgia and the South Sandwich Islands",Europe
+31014b27-4c26-49f1-9a1a-f6ff64583d7a,Ecuador,Australia
+f6d7b78e-31b8-4b51-b44c-a749dd030ab9,"Saint Lucia","South America"
+e1cdd2a9-8bdd-4449-b826-e306dd72740d,"Slovakia (Slovak Republic)",Europe
+f43d15cb-579b-4f14-8b7d-66898db78139,"Brunei Darussalam","South America"
+43086dcb-295d-4b12-8859-03c88b4c06ca,"Brunei Darussalam",Africa
+597001a4-1f42-422c-ae8f-fae21e1c5bfe,"Solomon Islands",Australia
+4f4c8d82-8616-4ee2-bd2a-0624a84d8f7a,"Lao People's Democratic Republic",Africa
+6c5d83cb-666b-409a-b6c1-a1523c466236,Brazil,"North America"
+e8326c68-7efa-4c12-b4da-c8eb728fbad9,"Russian Federation","South America"
+b4e9c925-6182-4e35-a9e0-a8df323ca3c4,"British Indian Ocean Territory (Chagos Archipelago)",Asia
+728bf938-91d2-4097-88d7-80d633e5af76,Barbados,Asia
+8f9f1da4-68a4-429e-8f35-137049768607,Paraguay,Africa
+68079adb-c772-4a8d-b20a-124c6ec7be05,Zambia,Australia
+d91c8d15-8163-43bb-a0ba-6ccb6baeb183,Egypt,"North America"
+052e417a-594f-4d2d-8c72-d8fa19a19134,"Hong Kong","South America"
+7da8bad1-127b-4ec7-99ba-03b3b664439b,Armenia,Asia
+0969c7bf-5d3c-4299-8c5f-5d6fbd9bf56d,Dominica,Africa
+f6f46ee2-fafc-4564-9440-b03dddfe74d6,Morocco,Asia
+3ff0a4ac-24e7-47b3-a962-d32edca8693c,"Sri Lanka",Australia
+b5c59c3f-f3a9-4453-a775-51f8d210b992,Portugal,"North America"
+1d76903d-c69a-49ae-9ae6-5024d8025204,Cyprus,"North America"
+1be836d5-e085-48d9-8d3c-74ebb2e7fc20,Angola,Africa
+8150c1e5-8aaa-4760-bd4f-0449f9cb0799,Ireland,Australia
+e6bbc039-e7a3-4e47-85e3-d70b49036ad4,Angola,Australia
+88a76587-10d9-41e8-96f9-f03602fb84db,"Marshall Islands","North America"
+c2268451-0457-42bb-ba1d-3908938af13b,"South Africa",Asia
+a43b356a-89a9-429e-8cbd-4cd505119b2b,"British Indian Ocean Territory (Chagos Archipelago)",Europe
+78dda6d9-29a8-444c-b256-523f3c4bbea5,"Papua New Guinea",Asia
+97f36443-9e97-4b30-ad4d-8c8c4392fe77,"Solomon Islands",Africa
+634da492-26c5-4d40-9886-b8135db86112,"Saint Martin",Australia
+bc82445c-1ebe-43b0-b33e-8188c2a34692,Uganda,"North America"
+a861061c-b787-4e00-842c-f1a14de3167d,Guam,Australia
+05dccbf7-45cf-41e1-83d1-edef4789a66a,Denmark,Asia
+589698c3-c21f-48a6-b9db-4a6b254841b0,Comoros,Australia
+b31bf73a-89bf-4c6b-b2a2-abced120deb1,Angola,Europe
+ffc8b709-4ec7-4ad5-89a9-bea1c2e3d40d,Mongolia,"South America"
+782be7c8-9aca-4bf9-847e-fe3f2862d4b4,"British Indian Ocean Territory (Chagos Archipelago)",Australia
+220c8472-e5a4-4a9e-9817-ee4278323e59,Bolivia,"North America"
+a8debbe5-2872-4ba2-84cd-afb794bc1088,Tunisia,"South America"
+4500a492-b588-4f52-814c-b9fe5a012ccf,Senegal,Australia
+c2b7ea0b-92ee-4fcf-a5c6-f3aecf1a7a2a,Aruba,Africa
+64629966-c987-44dd-9104-8bd731b48a24,Brazil,Africa
+0407a009-e81b-4a81-9c24-02389e2d25e4,Guinea-Bissau,Africa
+00fc74df-3cda-4b5f-b942-c370c7f3210e,"Norfolk Island","North America"
+d164cc6c-9a9f-4daf-8ee8-30b466313f4f,Turkey,"North America"
+3f5ec7ec-1595-486c-a199-457275a28a12,Guinea,Australia
+cc82851f-a876-4273-9ee9-9dd65a8c4d9e,Slovenia,"North America"
+a9fcdab7-c82d-41c6-b379-3372d0fa59fe,Botswana,Africa
+74c76d04-af2f-416b-a964-55ce212b311c,Tuvalu,"North America"
+d1d1c9e6-a431-4ed4-b8ac-3ff445382b26,Estonia,Asia
+110e9f97-daaf-466e-92eb-1cff184989b2,Indonesia,"South America"
+bfabc232-26c6-4c01-9457-6c077a145703,Poland,Asia
+76f315b6-b3ec-4a36-ac95-efae37d8a81d,Spain,Australia
+91edb827-9f43-49fd-b924-33404cb11d1a,Croatia,Asia
+0e5f199a-d001-4a06-8a17-82a426d734df,"Svalbard & Jan Mayen Islands",Australia
+c978461f-ec70-4d63-80ce-8925578dbdcc,"Cote d'Ivoire","North America"
+b571c587-b3cf-4f4e-9b9c-617bb5b27268,Afghanistan,Australia
+534e2e46-05f6-483b-8e5c-3d7781c2c880,Rwanda,"North America"
+baf7d92d-24da-48f8-9ae3-471c34b47e70,Oman,Africa
+cd0f0aa5-a1ca-4f4a-87d2-d72927dfb25a,"Faroe Islands",Europe
+1529df5d-6456-472e-bfd6-59b19fd5b5bf,"Saint Kitts and Nevis","North America"
+3340ba92-d798-4c2b-b9cb-0b5344ccb07a,Slovenia,Asia
+bf01835a-e54d-4934-99a7-5cfef9506270,Ireland,Africa
+4f8ca7ec-352c-4056-9176-2a057cb0548e,"Slovakia (Slovak Republic)",Asia
+ae0c571f-182b-4330-b8c2-a11267ace632,Singapore,Africa
+e70f740e-d4b5-40c8-ba97-8e664cffff8b,Ghana,Europe
+8b5905e7-7dd5-4fa9-9bea-c46b9bbb558f,Mexico,Europe
+fb2139ee-1eb0-45af-8185-28d23925fd35,"Puerto Rico",Asia
+d352c169-fda0-4c2f-98a7-9e80ab56a649,"Saudi Arabia",Africa
+d806f582-3dac-40b4-949f-2d1ad25990ae,"Saint Martin","North America"
+01dc30a7-6d3f-4eff-b7cf-1b51aba4c107,Senegal,"South America"
+0747392d-dd07-45a2-98b8-53336250e240,Samoa,Africa
+9916a41b-0612-4108-8619-334243ce5ef9,"Puerto Rico","South America"
+194bfb17-e608-460d-aba3-a1c206d2dbe9,"Western Sahara","South America"
+e7a00bb1-c14c-4706-823e-c68ddc0ae6a6,Taiwan,Australia
+f838ffec-62e9-454a-9d32-33814f630fee,Malta,"South America"
+48facad9-a270-4ef2-855a-d426b771ec3e,Thailand,Europe
+564f091a-cce1-4349-9266-300f26c662e3,Nicaragua,Africa
+e5dd161d-9dec-43c9-b110-c1201f6f4148,Vanuatu,Australia
+2e8e4197-e438-4d30-83f7-1ca01a67fb4b,Tonga,Asia
+b135ed8d-00ef-4f05-bfaa-f874708999c3,Burundi,Africa
+5e4c475a-a8bd-474e-9083-7bba391801fa,Ireland,"South America"
+20d29fa0-f688-4b48-99e9-7aac2561bc5a,Kiribati,Africa
+ab867d0b-cf95-4ea4-bb0c-12c80a00796d,Guernsey,Australia
+a2985eb6-9411-494f-8b2f-97bca07889b5,"Trinidad and Tobago",Asia
+beca779f-435c-413b-bcbf-eebd6bef652d,Malta,Europe
+a400efd1-6286-436a-a890-0daa56b5f94d,"United States Minor Outlying Islands","North America"
+967682d4-950e-4d16-94ac-8b474e3ca78f,"United States of America",Europe
+ac0b5071-0df8-4e8c-bbf1-f2f65cf5107e,Tunisia,"North America"
+76ef23e4-67eb-4d2a-965a-7c3e22f2cb67,Germany,Africa
+cac1c7a5-8540-467e-b7ca-e042cf2af372,Benin,Australia
+d1f24e4a-8ee1-4da0-9840-522dad34b49a,Serbia,"South America"
+1da49062-cbbf-4962-91eb-02db54918d32,Anguilla,Africa
+b4f0d31f-7486-4913-accc-12f076ee6746,Lesotho,Africa
+a5eb1d6b-9d75-4861-80e1-aee4023debfa,"Puerto Rico",Europe
+68a95aec-ee15-4a5d-a664-d9938e2cd69a,"Puerto Rico","North America"
+7b797892-faf9-4720-b0cf-08d44ef3515c,"Cape Verde",Africa
+74143fe1-c982-4667-b8c1-a89329cc5ba2,Azerbaijan,Africa
+a8341007-d3b1-4bba-a198-182ca30e6cfe,Cambodia,"North America"
+8a4b8a79-3efe-4d86-8eb4-1ccf7bf5d595,Guernsey,Asia
+f607af23-6dc7-4e7f-a597-5782a91c2aac,Comoros,Europe
+df35a9bc-2d4a-4442-b915-98f1e657691b,Timor-Leste,Europe
+33d7d32b-1193-41ac-8b9e-f2d5d28323f5,Yemen,Asia
+10fa4387-4d7f-40e8-9cbc-956e57f93719,Fiji,Australia
+083eefdf-cc8d-47f2-9c82-113058ee8ea2,Georgia,Europe
+e31a8262-2517-4641-9d21-1996cd0c1f92,Egypt,Africa
+cb92bd4b-160a-4140-b8a6-fad48640ece9,Nepal,"North America"
+0f527362-b968-4da3-b654-09bf151d7c2e,"Libyan Arab Jamahiriya","South America"
+77090fc2-bdb6-4b76-8dcb-823960d2083c,Macao,Africa
+00ad85d5-7cf2-43b1-96de-28bcf3220859,"Heard Island and McDonald Islands",Australia
+2a4d9178-35b6-48cb-8d66-c402d353c950,Sudan,Europe
+bb35cf2f-e70b-4bab-8c6b-47945f9dceca,Montserrat,Africa
+0f54ccff-85cb-4fdf-85aa-944960cfcf1e,"Central African Republic",Asia
+7699bdab-d074-497c-a05f-1b3c7d73d6b7,"Saint Helena","South America"
+c5c0ec94-e9d8-43b1-83df-99f2239c9735,"Equatorial Guinea",Europe
+e46bdda5-065c-4b58-bec2-71bac4652996,"Northern Mariana Islands",Europe
+42a181cc-46b1-4c86-ab4c-d564a5da942e,"United States Virgin Islands",Africa
+cb76c4b5-46fa-404c-81ec-cedc853c80a4,Guadeloupe,"South America"
+2e5b861f-d661-4781-b386-585ba8db000b,Fiji,Asia
+194112f2-da64-4779-bf8a-95914c2ccf30,Macedonia,Europe
+2108504d-4483-4baf-953d-83177ee1facc,"Cayman Islands",Africa
+25facbba-4946-4e3e-88c4-e09a8de077c0,Thailand,"North America"
+88cf2c53-9079-4413-9a43-401065da8de4,"Saint Lucia",Australia
+ee352e59-e4be-4af1-992b-9555744b9295,Uzbekistan,Europe
+5308c6af-cdc6-4a71-8477-5ba72a075f05,"Netherlands Antilles",Europe
+bf98b530-909b-47f6-ac2d-418940062fc0,"Falkland Islands (Malvinas)","North America"
+67449d0b-12f5-4463-a788-6542142bf65f,"Sao Tome and Principe",Africa
+9c578eb3-e086-4695-b6f7-bcb587617047,Chad,Europe
+6b85c598-de98-4d91-8eaa-b2d441bd6991,Uganda,Europe
+d1f319db-8af6-40db-9f85-42defce360be,Mauritius,Australia
+441b5878-6172-4e20-ae3b-c6d9924949da,Bolivia,Europe
+a4b3f751-5934-4f4e-bf30-1c8e5fb886e6,Somalia,"North America"
+b6ae1758-98f2-462c-9c6b-cb3e15ed2040,Suriname,"North America"
+c9ec6162-a30d-4506-b804-505bf42e85c5,Reunion,Africa
+e4d3b73e-9fdf-4e03-8aa2-f343ce5b6613,"Equatorial Guinea","North America"
+d662d965-7658-4735-af6a-35ca12127983,"United Kingdom",Africa
+d5427497-1b9e-434c-bc4d-644a92d329e3,Kuwait,"South America"
+9d33e9c7-9e50-4d36-bedb-40ff338eb7ce,Ghana,"South America"
+d41b0234-719f-4a7b-a1fc-c6ae8ed48b4e,Togo,"North America"
+cfc405d5-daef-463a-ba26-12bfb598f8ff,Zambia,"North America"
+33f1c457-4359-4dbd-b99e-5bd4979627df,Guinea,Africa
+f26d0cf9-1757-4791-b232-9963e03a3d97,Spain,"North America"
+843a1b9b-e841-4c0d-8fdc-e460e8253110,Albania,Europe
+0bbc69f5-101c-4617-a29e-e833050f1076,Burundi,Europe
+03723be7-4df7-4849-a358-c9c6dc18e982,Australia,"South America"
+e7f290fb-9a6d-4b99-aa36-49819ec52c65,"United Kingdom",Europe
+6265bf25-7f71-45b0-a98c-6239cb1490b7,Gibraltar,Asia
+9f26478f-4a0c-47e7-8e22-588ed86d99c8,Bulgaria,Asia
+22731809-f8f8-4d38-9c57-a99e6096747d,"United States Minor Outlying Islands",Australia
+304ac0d9-8f9d-48bc-b81c-b583ae20881b,Uganda,Asia
+99edc0e4-8918-4ffb-aea2-4317c5cc94cf,Argentina,Australia
+6f45a26a-4a5b-48a7-8eb1-12cf943eae8b,"Norfolk Island",Africa
+b652497d-966e-4834-9336-11b85ae13a58,Portugal,Africa
+5b0d30ea-fa29-4e9b-8283-2b367240bf87,Timor-Leste,Australia
+e434f471-2c38-4ffd-a150-b8fd8a93dc33,"Western Sahara",Africa
+e2472d86-acc7-47b9-8303-c720a5b39323,Peru,Asia
+0fa414f7-121d-4356-8d73-6819a482b777,Honduras,"South America"
+626a1dfc-2205-46b7-a4f1-472448d7157f,"Sierra Leone","North America"
+97f5f682-0402-4bd5-a4d9-b0f9d0edb5c8,"Pitcairn Islands",Australia
+0e4b1739-dffa-4d42-b1b0-a05dd7e28f28,"Syrian Arab Republic","North America"
+0eee895e-4974-4b20-a4c8-836753e55bd7,Hungary,"North America"
+2d128d61-cfba-49c2-acb9-f8016afa7907,Chile,Asia
+c83f756c-201d-4c82-92f7-9dca3be8b05a,Lebanon,Asia
+eebe8d7b-c83c-4187-9c95-4f671203fbc5,Tonga,"North America"
+5ebe20c2-e3d2-4a70-a58c-0a4ccd33ed81,"Dominican Republic",Asia
+38067fde-2018-4dc9-ab45-85e9e5e515e8,"New Caledonia",Africa
+119b7206-6abb-4c54-9c74-846867ea2809,Japan,Asia
+456377af-ad58-4f5c-b704-84b514d14771,Chile,Australia
+8a2d2d5b-ab75-4a9b-89bb-54a6819d7a0e,Guinea,"South America"
+5c8e4066-bf23-4c82-8315-1a1077468bc0,"Cocos (Keeling) Islands",Australia
+30f4a46e-5915-4f59-9124-c917033aeadf,Kuwait,Asia
+4a4ac7d8-0458-42ef-92fc-495d7eaff100,"Antigua and Barbuda",Europe
+850a20c7-6651-43d0-ad00-fbaddb7bd3e8,Iran,Europe
+06a85f83-5596-486e-8299-6ca1d45df976,"Saint Barthelemy",Asia
+dc23cb77-23a8-4f2a-b9fc-3501d8aae1b6,Jersey,"North America"
+fcbcd016-7c4f-4ef4-8504-760d9ea02309,Belarus,Africa
+8991fe55-d0c5-466a-8334-a860dcdb4602,"Pitcairn Islands",Asia
+57ef8576-33a5-4531-8c7a-f8a4ce1d3244,"Cape Verde",Australia
+08f40fe5-e7d9-42e3-817c-ab1ce7a51a4f,Bermuda,Europe
+2d8f7f96-aeda-4994-9e41-258a965684ec,Tanzania,Australia
+c856593d-f618-474c-8d8f-e7d2855f108c,Liberia,Africa
+8efde889-1c10-4e4c-b50c-4c144310a879,Palau,Africa
+9c5c9410-9c91-4f89-b0c5-f7d2eb15b33a,Zambia,Africa
+d7e9c2a5-26ee-4ddf-a1c5-037533debacb,Bahamas,"North America"
+3a7c515f-98c4-47c1-81dd-4080d08bce4c,Liberia,Europe
+026ee880-b086-4871-be69-1edcba980908,Cyprus,"South America"
+44299f80-05ba-413e-bbcb-0e1206e16be4,Algeria,Africa
+bbf3d179-4920-4c34-9901-298c5cf27ff7,"Syrian Arab Republic",Australia
+e0b4d4ae-0ec0-4dc4-bc2f-fac1ee296fcc,Switzerland,Africa
+66371d36-4436-450d-af7f-6f9f2b0b79a8,Algeria,"South America"
+4d206c9e-3ce6-4cde-87f6-3f73c7bc4586,Guadeloupe,"North America"
+683ff417-1179-42e9-8c37-bf4b2cabf12d,Georgia,Asia
+52c0e9c4-0bbd-4273-ab60-f357a9e70bf9,Bahrain,"North America"
+06b9e990-24d5-4783-9e01-06100aa5a413,"Libyan Arab Jamahiriya",Europe
+e5873d7d-2288-4a40-b18c-d39e6e394fcc,"Central African Republic",Africa
+7abe96c0-f850-4206-b767-4edd8659fad1,Indonesia,"North America"
+bde38b6f-2e54-4962-a517-617e791a7adf,Guinea-Bissau,Europe
+5dea7f5d-e2b2-48f1-9580-431c694365a8,Botswana,"North America"
+85289eaa-18c6-46d7-b5b3-9eab89a32416,Micronesia,Europe
+667f8b0b-5764-4d3c-bf84-638834cfc434,Swaziland,"North America"
+892debf2-57be-4ae6-8046-22cc62345557,"Christmas Island",Australia
+86846aab-e5ac-4fc4-b237-c17d7c14c8d6,Reunion,Australia
+2e543a4e-f4d1-47a5-83a5-285cbf6988e0,Slovenia,Australia
+55a0a6d9-6693-467c-af66-c9130e9c5062,"New Caledonia","South America"
+fe9f8382-aac8-4fae-8121-487c0cef3a36,"Christmas Island",Europe
+fd89e668-4d42-4cc5-b153-55f75864ddbd,Belgium,"North America"
+dcadd7d4-025a-44b7-a55b-b32ff065d7b6,"Libyan Arab Jamahiriya",Asia
+500540f9-22be-4cdc-b9c7-b5140a5f9a21,Spain,Europe
+c36143ea-04fe-4c01-b52b-b814bea3d44e,Uganda,"South America"
+94e1401a-e583-46a7-b5e3-abc886be521e,Belgium,Africa
+e8263949-7326-43ef-a3dd-432cd0af2aa4,Bolivia,"South America"
+f6663c1d-0488-463e-9b45-5cdd55d8a4d4,Lesotho,"South America"
+8f7a20b8-aea9-4e10-bf02-a29ff67751fa,Greece,Europe
+1c1799e8-e8a4-453d-a425-ebfb3ef0a6c0,Venezuela,Australia
+28811f45-869d-4b09-89a9-b53b1729a200,Estonia,"South America"
+b8f79801-c381-46ec-9df4-277d043a33a6,Niue,"North America"
+43bb7f24-d7b8-498e-92a8-f082f55d660d,Iraq,"North America"
+57495179-bfb9-4be3-a204-b113c4b561a8,"Lao People's Democratic Republic",Asia
+62d2eb45-6cc4-4fd9-ba55-154a700aaaef,Bangladesh,"North America"
+fc5c3eb7-9917-4fa8-89ac-1d2045c29b2b,"Cook Islands","South America"
+cf5ce309-7297-413f-aded-4eee731e4b94,Finland,Europe
+20273021-b81d-4b85-b0a1-bd1e070fda4d,Macao,Europe
+8d45b61c-07be-4fe8-84d7-71946ab31dd5,Bahrain,Australia
+b872da5e-8a4a-4ee1-831c-52b5504ff2b6,Taiwan,"North America"
+090a537e-adc0-4f50-997e-c77f5c428f39,Botswana,Australia
+01d79a13-47fe-4f2e-bc73-003c4463ee8e,Zambia,Europe
+99825152-1f5c-4cfa-928f-147853029dc4,"Kyrgyz Republic",Europe
+d892ff0a-4e77-4ff9-b466-fdb43ae27161,Andorra,Europe
+ee225399-482c-43ee-b867-09ef915e1c9e,Romania,Australia
+2646116b-d29b-4f88-95a1-0c622ca48398,Tajikistan,"South America"
+ecd46f32-4efb-45b2-840d-fae2367e3a19,Belgium,Australia
+3b589206-72e8-4dfd-9765-dda82cc40b69,"Saint Lucia",Asia
+ed662b44-831a-4a4c-88a9-1c331182b0dd,Uzbekistan,Australia
+eec948b1-6314-4af0-b299-328561fa9718,Poland,Europe
+e4cf45b5-904b-4baa-a437-460c3b563794,Greece,Asia
+12123f4d-73bb-4c65-9080-18aa8587ec05,"Czech Republic","North America"
+efe460fc-a68a-48fe-8b5a-d2eb50c6cd2d,"Papua New Guinea",Europe
+555fe2a2-81d7-4630-8e54-f7af83202734,"San Marino","North America"
+70b1242c-3a09-4b7e-809b-e7d272083b77,Canada,Asia
+f435466d-9fe0-42c3-8379-6e93ca19dfa0,Tunisia,Australia
+6d0cfe0f-dcb9-4f79-b8a4-1ca81d384678,"Saint Vincent and the Grenadines","North America"
+97c8cc2c-5905-499e-8363-b0de22d10143,Singapore,"South America"
+28d73a69-9a7a-49ad-8690-359883cf8ebb,"Central African Republic",Europe
+cfd0a85e-fba2-4386-95ba-8c548229bb15,Indonesia,Australia
+3a13baa6-1c30-49f0-802d-49476c83c269,"Antigua and Barbuda","South America"
+f185d61e-3283-4f85-a991-f2785d375b1a,Martinique,"South America"
+53feaff4-af72-40ad-9b58-cd88bd8bb4b3,Ukraine,Europe
+7d1bf983-2a06-45cc-b388-7409eadb3b66,Ecuador,Europe
+03270177-3a0a-4e96-b39a-d39e9cf5cd22,Guinea,"North America"
+799c3027-7f4d-403f-a62a-5f8f1d6ca2f5,Netherlands,Asia
+a89cb5e4-0ad8-44c0-9940-5a786ef91d09,Fiji,"North America"
+fb887cd5-e525-49ff-8b19-a981da5164a5,Ukraine,"South America"
+ac57e66d-3e84-40a1-97ec-bdef72760963,Montenegro,"North America"
+90d681da-ee47-42bd-b8d3-1a4901a0668b,Ghana,Africa
+5f63ac12-f825-4ee2-8eaa-44956a045c58,Singapore,Asia
+7829cfb8-c0cf-4366-9d2d-8af1a03c39b0,"Saint Martin",Europe
+83fee4e2-f63b-4b82-a9f9-6cd5f92309db,Mozambique,Africa
+c75fcda7-ac89-41e3-bc9d-a3a6174e3c1d,Guinea-Bissau,"North America"
+6a63e058-583f-4223-a04a-9110800cb16a,Liberia,Australia
+a5653290-ab02-41ce-9d04-2c823254a809,Monaco,"North America"
+00d8ee5a-7539-4c17-85c1-38808babc728,"Marshall Islands",Asia
+c9f5366c-1089-4c55-a477-97ca39c6f4aa,Paraguay,Asia
+c9e91d21-5014-4651-b210-c4b923951678,China,Asia
+17214033-05e9-445e-8755-4d01f8a6438c,Indonesia,Africa
+5f9ef209-eb81-4718-8e26-bc7eaad239b4,Switzerland,Europe
+2e0332ba-43f5-49f9-ae3c-21b719091810,Norway,Asia
+8c4ab84b-2a8d-4ab4-ac26-02d43bb4a730,"Faroe Islands","North America"
+c71602b1-ac63-4560-af94-78fe9809f61e,Monaco,Asia
+3214dcd7-d6be-4b3e-84c6-603bcdf78e69,Mexico,"South America"
+1568974f-4590-460d-920e-4a8037fd79f5,Guadeloupe,Australia
+b67807d3-bd63-430e-b52b-5f7d05ee8302,China,Australia
+20713018-3bfe-414c-82d0-aebdf61aad52,Guatemala,"South America"
+c38b638d-b18e-4bed-a41c-045712052e9a,"Netherlands Antilles",Australia
+74d820a4-5827-4fbe-8e29-b3934e05893a,Seychelles,Australia
+c37ac4ee-e6ee-4b94-8395-a1a487bc6be9,"Sao Tome and Principe",Australia
+6018e8ae-ee0a-4aa2-b6de-11af0e6e61bd,"Bouvet Island (Bouvetoya)",Australia
+e2ca69bd-7c9b-4341-930a-e4e1ed1efb20,Maldives,Australia
+3736b88a-8328-4076-b570-52780d48da1b,Madagascar,Australia
+b355adaf-3cca-482a-b708-c90647281bbc,"Cote d'Ivoire",Africa
+987ade30-b9f5-4193-ab9b-25c71d283eed,Paraguay,Europe
+f4743fdd-3040-4d6d-900b-acf106560f73,"Holy See (Vatican City State)",Asia
+c24c96a6-0d91-4ab3-bb96-fa64cd0a57a3,"Northern Mariana Islands","South America"
+9b589794-3c29-4381-82d9-c388669518d5,Djibouti,Australia
+fb5b8070-07e5-4ed1-abb8-5b99cdcb7e64,Germany,"North America"
+e25b1b55-d276-4e4f-a064-e4a652d6c127,Niue,"South America"
+03926ef1-2d38-4c4c-a021-04173d7702bd,Namibia,Africa
+f8820122-8003-448c-9100-d419735396b5,Bermuda,Australia
+9c66d91c-602a-4e73-9c23-ed45b5dd9fb7,"Turks and Caicos Islands","North America"
+7a4ec7c9-ce7e-4bbf-82b2-80aa54eb1259,Argentina,Europe
+8cf99293-ef9c-4636-9e20-afe93f6aef27,France,Europe
+09946467-c84a-4694-a6c3-4f3696181b90,Andorra,Africa
+4da6f82f-9b61-4160-b215-6eac42046c88,"Brunei Darussalam",Australia
+e6bad464-fed5-4016-829c-9a39733f2ce0,Ecuador,Africa
+41045f00-5b30-4f05-9a6f-a75f6a2ac01a,"Turks and Caicos Islands","South America"
+cbd03b8d-5796-4509-b79d-05ace0b4b73f,"Saint Helena",Asia
+c516d1fe-70c5-436a-a449-81a747d808d0,Barbados,"North America"
+1c81009a-3b9f-4912-ae99-3da198420644,Gabon,Australia
+71ddf44c-39ed-4ecf-b204-a9bdb27c1529,Mauritius,Asia
+1a4a9849-70ed-48a6-ba38-371fc3475395,Mauritania,Asia
+a92eff96-2ec8-4faa-9170-a6672cc5bf0e,Togo,Australia
+b349d038-4e20-4c36-a7de-540316b56d56,Malaysia,Europe
