@@ -20,9 +20,13 @@ This project analyzes regional order and payment data to uncover insights that i
 
 ## 📊 Dashboard Overview
 
-![Dashboard](images/dashboard.png)
 
----
+<img width="1258" height="496" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/dacd02e1-8a3f-49c9-9f71-7f137092592b" />
+
+<img width="1364" height="545" alt="Data modelling" src="https://github.com/user-attachments/assets/1d95328c-f58a-4d60-aa13-4088c99fffb0" />
+
+-----
+
 
 ## 📈 Key Metrics
 
@@ -288,9 +292,7 @@ regional-order-analysis/
 
 # 👤 Author
 
-**Your Name**
+**Salami Emmanuel Hammed**
 
-* LinkedIn: (Add link)
-* Portfolio: (Add link)
 
 ---
